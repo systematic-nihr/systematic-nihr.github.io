@@ -7,10 +7,6 @@ hide:
 
 *Terms, phrases and acronyms used in the SysteMatic project.*  
 
-!!! question	"Have a term to add?"
-
-	 **[Suggest it here...]()**
-
 
 ## A
 
