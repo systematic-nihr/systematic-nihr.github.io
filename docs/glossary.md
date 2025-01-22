@@ -76,7 +76,8 @@ Digital Buddies were volunteers who helped, during the COVID-19 pandemic, to ena
 
 <br>  
 
-**DynAIRx**  A research study aimed at developing new, easy-to-use artificial intelligence tools that support medicines optimisation in MLTCs.  
+**DynAIRx**  
+A research study aimed at developing new, easy-to-use artificial intelligence tools that support medicines optimisation in MLTCs.  
 
 <br>  
 
