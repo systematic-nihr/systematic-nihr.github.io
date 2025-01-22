@@ -20,6 +20,6 @@ More information about arts-based methods used in the workshops can be found on 
 
 Personas were developed based on qualitative data gathered from the workshops as well as interviews. You can read about them here:  
 
-- [Personas](personas.md)
+- [Personas](person-maps.md)
 
   
