@@ -3,7 +3,7 @@ hide:
 - toc
 ---
 
-# SysteMatic phase 2 project timeline & Gantt chart
+# SysteMatic phase 2
 
 ## Project timeline 
 
