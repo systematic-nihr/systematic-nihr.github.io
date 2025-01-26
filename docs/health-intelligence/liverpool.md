@@ -12,7 +12,7 @@ tags:
 
 ## Interactive
 
-<iframe src="https://systematic-nihr.github.io/docs/assets/networkInteractive1.html" title="D3" width="100%" height="400" style="border:none;"></iframe>
+<iframe src="https://github.com/systematic-nihr/network-interactive-example/blob/main/networkInteractive1.html" title="D3" width="100%" height="400" style="border:none;"></iframe>
 <br />
 
 
