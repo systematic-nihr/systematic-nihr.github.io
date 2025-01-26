@@ -12,7 +12,8 @@ tags:
 
 ## Interactive
 
-[Launch interactive map](../assets/networkInteractive1.html)
+<iframe src="https://systematic-nihr.github.io/docs/assets/networkInteractive1.html" title="D3" width="100%" height="400" style="border:none;"></iframe>
+<br />
 
 
 ## Findings 
