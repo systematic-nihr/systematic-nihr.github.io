@@ -10,7 +10,13 @@ tags:
 
 ## Methods
 
-## Interactive
+
+## Visualisations
+
+### Most Similar Areas
+![1](../assets/composite-network-plot-for-web.png)
+
+### Interactive
 
 <iframe src="https://systematic-nihr.github.io/network-interactive-example/networkInteractive1.html" title="D3" width="100%" height="400" style="border:none;"></iframe>
 <br />
