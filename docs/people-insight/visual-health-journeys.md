@@ -19,7 +19,7 @@ Participants constructed visual narratives that illustrated their health journey
 ## Application & use:  
 Paper and coloured pens were provided, allowing participants to express key health milestones, challenges and successes visually. Through sharing these visual representations within groups, common themes emerged, providing insight into the shared struggles and triumphs of participants.
 
-### Why this approach?  
+## Why this approach?  
 Creating visual healthcare journeys equips seldom heard groups with a powerful medium to articulate their stories. This approach prioritises their perspectives, making their voices visible within health discourse. 
 
 ## Results & insights  
