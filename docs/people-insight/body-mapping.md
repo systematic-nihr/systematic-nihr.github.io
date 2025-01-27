@@ -8,6 +8,11 @@ tags:
 
 # Body mapping 
 
+![Activity books](../assets/body-mapping.png)
+/// caption
+Body mapping in an arts-based workshop in Glasgow.
+///
+
 ## Overview  
 The body mapping technique was employed to allow our group participants to create a life-size representation of their bodies. Together, we considered how health conditions, pain and emotional experiences can impact on the body and the mind, through drawing and annotation.  
 
