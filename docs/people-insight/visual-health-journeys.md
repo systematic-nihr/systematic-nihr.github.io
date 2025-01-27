@@ -16,7 +16,7 @@ Health timeline.
 ## Overview  
 Participants constructed visual narratives that illustrated their health journeys over time by drawing a timeline of their health.
 
-## Application & use:  
+## Application & use  
 Paper and coloured pens were provided, allowing participants to express key health milestones, challenges and successes visually. Through sharing these visual representations within groups, common themes emerged, providing insight into the shared struggles and triumphs of participants.
 
 ## Why this approach?  
