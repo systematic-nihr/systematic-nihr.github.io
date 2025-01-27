@@ -21,7 +21,7 @@ Person maps are a tool to develop rich understanding of people with MLTC, includ
 
 ## Application & use
 
-The Person map template used for SysteMatic was informed by qualitative data from activity books, interviews, focus groups and arts-based workshops with people with MLTC, and designed and developed in collaboration with public advisors and system stakeholders (from health and VCFSE sector). They feature quotes, imagery and insights to simulate real-life challenges faced by individuals living with MLTC.  
+The Person map template used for SysteMatic was informed by qualitative data from [activity books](activity-book.md), interviews, focus groups and [arts-based workshops](arts-based-workshops.md) with people with MLTC, and designed and developed in collaboration with public advisors and system stakeholders (from health and VCFSE sector). They feature quotes, imagery and insights to simulate real-life challenges faced by individuals living with MLTC.  
 
 ![person map glasgow](../assets/persona.png)
 /// caption
@@ -34,7 +34,7 @@ The person maps are to be viewed a work in progress – open to continual develo
 
 ## Results & insights
 
-The Person maps provide rich insights about people with MLTC, effectively illustrating the complex challenges different population segments face in accessing healthcare. This is important alongside the population level data that is typically used to understand and make decisions about MLTC. By adopting an equity lens, Person maps enable stakeholders to move beyond generic representations, and consider a range of people with MLTC – particularly those at the ‘extremes’. This method showcased the need for policies that address systemic inequities and promote inclusivity, to consider the holistic health needs of the most marginalised in our society.  
+The Person maps provide rich insights about people with MLTC, effectively illustrating the complex challenges different population segments face in accessing healthcare. This is important alongside the population-level data that is typically used to understand and make decisions about MLTC. By adopting an equity lens, Person maps enable stakeholders to move beyond generic representations, and consider a range of people with MLTC – particularly those at the ‘extremes’. This method showcased the need for policies that address systemic inequities and promote inclusivity, to consider the holistic health needs of the most marginalised in our society.  
 
 Person maps should be contextual and co-produced within the project context - rather than using a standard template.
 
