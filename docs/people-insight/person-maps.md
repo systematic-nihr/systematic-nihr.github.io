@@ -17,15 +17,21 @@ Example person map used Liverpool Stage 2 workshop.
 
 ## Overview
 
-Person maps are a tool to develop rich understanding of people with MLTC, including their needs, goals and behaviours. Extending beyond conventional persona representations, which are criticised for stereotyping, bias and being reductive,[^1][^2][^3] the maps integrate systemic and contextual factors, emphasising how individuals’ experiences are shaped by a) their interactions with others (households, communities, clinicians); b) their journeys through the healthcare system; and c) the broader context of their lives. Incorporating Inclusive Design principles, the maps represent a diversity of mainstream and extreme users, scenarios and contexts.[^4] 
+Person maps are a tool to develop rich understanding of people with MLTC, including their needs, goals and behaviours. Extending beyond conventional persona representations, which are criticised for stereotyping, bias and being reductive,[^1][^2][^3] the maps integrate systemic and contextual factors, emphasising how individuals’ experiences are shaped by a) their interactions with others (households, communities, clinicians); b) their journeys through the healthcare system; and c) the broader context of their lives. Incorporating Inclusive Design principles, the maps represent a range of mainstream and extreme users, scenarios and contexts,[^4] including representing diverse health conditions experienced by marginalised groups.
 
 ## Application & use
 
-The Person map template used for SysteMatic was informed by data from activity books, interviews and focus groups with people with MLTC, and designed and developed  in collaboration with public advisors and system stakeholders (from health and VCFSE sector). The person maps are to be viewed a work in progress – open to continual development and adaptation for different situations depending on the level of detail appropriate. The maps are currently booklets, split into three main sections, capturing information across personhood (e.g., socioeconomic status), health (e.g., complex co-occurring conditions), and patienthood (e.g., navigation and trust in or avoidance of healthcare systems). 
+The Person map template used for SysteMatic was informed by qualitative data from activity books, interviews, focus groups and arts-based workshops with people with MLTC, and designed and developed in collaboration with public advisors and system stakeholders (from health and VCFSE sector). They feature quotes, imagery and insights to simulate real-life challenges faced by individuals living with MLTC.  
+
+The person maps were used in discussions with community members, clinicians and policy stakeholders to foster understanding and stimulate debate around health inequity.  
+
+The person maps are to be viewed a work in progress – open to continual development and adaptation for different situations depending on the level of detail appropriate. The maps are currently split into three main sections, capturing information across person & context (e.g., socioeconomic status), health (e.g., complex co-occurring conditions), and patienthood (e.g., navigation and trust in or avoidance of healthcare systems). 
 
 ## Results & insights
 
-The Person maps provide rich insights about people with MLTC. We think that this is important alongside the population level data that is typically used to understand and make decisions about MLTC. By adopting an equity lens, Person maps enable stakeholders to move beyond generic representations, and consider a range of people with MLTC – particularly those at the ‘extremes’.  Person maps should be contextual and co-produced within the project context - rather than using a standard template.
+The Person maps provide rich insights about people with MLTC, effectively illustrating the complex challenges different population segments face in accessing healthcare. This is important alongside the population level data that is typically used to understand and make decisions about MLTC. By adopting an equity lens, Person maps enable stakeholders to move beyond generic representations, and consider a range of people with MLTC – particularly those at the ‘extremes’. This method showcased the need for policies that address systemic inequities and promote inclusivity, to consider the holistic health needs of the most marginalised in our society.  
+
+Person maps should be contextual and co-produced within the project context - rather than using a standard template.
 
 
 **Public advisor, Ali, shares her perspective on the Person maps below:**
