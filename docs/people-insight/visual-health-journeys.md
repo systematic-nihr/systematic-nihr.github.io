@@ -8,6 +8,11 @@ tags:
 
 # Visualised health journeys
 
+![Health timelines](../assets/health-timeline.png)
+/// caption
+Health timeline.
+///
+
 ## Overview  
 Participants constructed visual narratives that illustrated their health journeys over time by drawing a timeline of their health.
 
