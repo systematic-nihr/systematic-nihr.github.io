@@ -23,6 +23,11 @@ Person maps are a tool to develop rich understanding of people with MLTC, includ
 
 The Person map template used for SysteMatic was informed by qualitative data from activity books, interviews, focus groups and arts-based workshops with people with MLTC, and designed and developed in collaboration with public advisors and system stakeholders (from health and VCFSE sector). They feature quotes, imagery and insights to simulate real-life challenges faced by individuals living with MLTC.  
 
+![person map glasgow](../assets/persona.png)
+/// caption
+Quotes, images and insights populate the person map.
+///
+
 The person maps were used in discussions with community members, clinicians and policy stakeholders to foster understanding and stimulate debate around health inequity.  
 
 The person maps are to be viewed a work in progress – open to continual development and adaptation for different situations depending on the level of detail appropriate. The maps are currently split into three main sections, capturing information across person & context (e.g., socioeconomic status), health (e.g., complex co-occurring conditions), and patienthood (e.g., navigation and trust in or avoidance of healthcare systems). 
