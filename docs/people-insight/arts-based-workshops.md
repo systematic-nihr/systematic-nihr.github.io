@@ -10,9 +10,9 @@ tags:
 
 ## Overview 
 
-In Glasgow, we used participatory arts-based methods to explore experiences of living with multiple long-term conditions, including use of healthcare. Through the implementation of body mapping, visualised health journeys, photovoice and personas, the nuanced experiences of individuals living with multiple long-term health conditions were explored. These arts-based approaches facilitated participant engagement and encouraged seldom heard voices to be included in health discussions, driving towards more equitable health policies and practices.
+In Glasgow, we used participatory arts-based methods to explore the nuanced experiences of living with multiple long-term conditions, including use of healthcare. These arts-based approaches facilitated participant engagement and encouraged seldom heard voices to be included in health discussions, driving towards more equitable health policies and practices.
 
-More information about arts-based methods used in the workshops can be found on the following pages:  
+More information about some of the arts-based methods used in the workshops can be found on the following pages:  
 
 - [Body mapping](body-mapping.md)
 - [Visualised health journeys](visual-health-journeys.md)
