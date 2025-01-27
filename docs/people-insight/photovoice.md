@@ -8,6 +8,8 @@ tags:
 
 # Photovoice
 
+![Photovoice quote](../assets/photovoice.png)
+
 ## Overview
 Photovoice is a photography-based participatory research method where participants capture images that represent their experiences and perspectives. The Photovoice activity engaged participants in capturing images that reflected their experiences living with long-term health conditions.
 
