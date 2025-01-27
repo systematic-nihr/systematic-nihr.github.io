@@ -45,7 +45,7 @@ The books were designed and developed specifically for the SysteMatic project, i
 
 ### Design principles
 
-**Encouraging creativity:** The books were physical, featuring diagrams, timelines, and spaces for activities like body mapping and mind mapping, to move beyond static question-answer formats.
+**Encouraging creativity:** The books were physical, featuring diagrams, timelines, and spaces for activities like [body mapping](body-mapping.md) and mind mapping, to move beyond static question-answer formats.
 
 
 **Flexibility:** Participants could: write and draw in the books, type responses on a computer/smartphone, share photos, videos, or voice notes.
