@@ -8,7 +8,7 @@ tags:
 - Video
 ---
 
-# MLTC Person maps
+# MLTC Personas / Person maps
 
 ![person map](../assets/S2-person-map.jpg)
 /// caption
