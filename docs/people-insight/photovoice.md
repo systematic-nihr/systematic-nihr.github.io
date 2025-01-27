@@ -13,7 +13,7 @@ tags:
 ## Overview
 Photovoice is a photography-based participatory research method where participants capture images that represent their experiences and perspectives. The Photovoice activity engaged participants in capturing images that reflected their experiences living with long-term health conditions.
 
-## Application & use:  
+## Application & use  
 Participants used their mobile phones to document their lives around specified themes that illustrated their health conditions, community supports and barriers to physical and mental wellbeing. The resulting photographs were shared in group settings, which facilitated discussions to explore the meanings behind the images.
 
 ## Why this approach?  
