@@ -28,7 +28,7 @@ With this tabulated data, we then divide the counts into 10-year age brackets.  
 The grey cells are those where statistical disclosure control required that we report a floor value of 5 cases.
 
 ### Measuring Similar / Dis-similar Areas
-Rather than manually inspecting -- deciding if different areas where more or less similar in their patterns of age, multi-morbidity and deprivation -- we construct a matrix of pairwise similarities between each of the available areas' multi-morbidity matrices.  We did this for 61 MSOA areas around Liverpool.
+Rather than manually inspecting these heatmaps -- deciding if different areas where more or less similar in their patterns of age, multi-morbidity and deprivation -- we construct a matrix of pairwise similarities between each of the available areas' multi-morbidity matrices.  We did this for 61 MSOA areas around Liverpool.
 
 For example, consider three (arbitrarily-chosen) example areas:
 
@@ -38,9 +38,7 @@ For example, consider three (arbitrarily-chosen) example areas:
 
 ![1](../assets/example-3-areas.png)
 
-Notice that Orell Park and Walton Value had similar patterns of multi-morbidity but both of these areas are appear different from Central & Islington.  We produced similar heatmaps (counts of conditions by age bracket) for 322 areas.
-
-Each heatmap is a matrix, so we then compute all pairwise [Frobenius](https://en.wikipedia.org/wiki/Matrix_norm#Frobenius_norm) distances (Deza and Deza, 2013; pp. 217) for the 322 areas to arrive at an distance matrix that describes how 'close' or 'distant' any area is to another.
+Visually, Orell Park and Walton Value look more similar but both of these areas are appear different from Central & Islington.  As each heatmap is a matrix, we define similarity using [Frobenius](https://en.wikipedia.org/wiki/Matrix_norm#Frobenius_norm) distances (Deza and Deza, 2013; pp. 217) for the 61 areas to arrive at an distance matrix that describes how 'close' or 'distant' any area is to another.  For example, with the same three areas again:
 
 ![1](../assets/example-similarity.png)
 
