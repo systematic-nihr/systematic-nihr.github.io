@@ -22,6 +22,7 @@ Acknowledging that our stakeholders (patients, carers, voluntary- and health-car
 We first take each [MSOA area](https://www.ons.gov.uk/methodology/geography/ukgeographies/statisticalgeographies) and produce a heatmap that summarises the area's morbidity prevalance data.  To do this, we count the number of individuals with e.g. asthma only, then asthma and one gastrointestinal condition and so on. To constrain the analyses and make tractable, the list of potential morbidities and combination multi-morbidities was based on the most common *individual* long-term conditions.  
 
 With this tabulated data, we then divide the counts into 10-year age brackets.  This delivers a matrix of *age bracket x multiple conditions* where each 'cell' is the number of people in that age bracket with that condition (or combination of conditions).  As an example, the Walton Vale MSOA matrix is shown below:
+
 ![1](../assets/Walton-Vale.png | width = 400)
 
 The grey cells are those where statistical disclosure control required that we report a floor value of 5 cases.
