@@ -51,7 +51,7 @@ Equipped with the 61 *x* 61 matrix of similarities, we can establish -- for any 
 
 The resulting visualisation is shown below:
 
-<img src="../assets/composite-network-plot-for-web.png" alt="Network Graph of Similar Regions" style="width:110%; height:auto;">
+<img src="../assets/composite-network-plot-for-web.png" alt="Network Graph of Similar Regions" style="width:150%; height:auto;">
 
 ### Interactive
 
