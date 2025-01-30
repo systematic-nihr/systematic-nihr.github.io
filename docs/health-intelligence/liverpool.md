@@ -38,7 +38,7 @@ For example, consider three (arbitrarily-chosen) example areas:
 
 ![1](../assets/example-3-areas.png)
 
-Visually, Orell Park and Walton Value look more similar but both of these areas are appear different from Central & Islington.  As each heatmap is a matrix, we define similarity using [Frobenius](https://en.wikipedia.org/wiki/Matrix_norm#Frobenius_norm) distances (Deza and Deza, 2013; pp. 217) for the 61 areas to arrive at an distance matrix that describes how 'close' or 'distant' any area is to another.  For example, with the same three areas again:
+Visually, Orell Park and Walton Vale look more similar but both of these areas are appear different from Central & Islington.  As each heatmap is a matrix, we define similarity using [Frobenius](https://en.wikipedia.org/wiki/Matrix_norm#Frobenius_norm) distances (Deza and Deza, 2013; pp. 217) for the 61 areas to arrive at an distance matrix that describes how 'close' or 'distant' any area is to another.  For example, with the same three areas again:
 
 ![1](../assets/example-similarity.png)
 
