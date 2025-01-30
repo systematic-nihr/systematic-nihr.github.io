@@ -27,19 +27,18 @@ With this tabulated data, we then divide the counts into 10-year age brackets.  
 
 The grey cells are those where statistical disclosure control required that we report a floor value of 5 cases.
 
-### 
+### Measuring Similar / Dis-similar Areas
+Rather than manually inspecting -- deciding if different areas where more or less similar in their patterns of age, multi-morbidity and deprivation -- we construct a matrix of pairwise similarities between each of the available areas' multi-morbidity matrices.  We did this for 61 MSOA areas around Liverpool.
 
-For example, if we consider three (arbitrary) example areas:
+For example, consider three (arbitrarily-chosen) example areas:
 
   * Walton Vale
   * Central & Islington
   * Orell Park
 
-and then for each region, derive a heatmap that counts the prevalence of people with multiple conditions in 10 year age brackets then we arrive at:
-
 ![1](../assets/example-3-areas.png)
 
-Grey cells are where statistical disclosure control results in a floor value of 5 people (in a given age bracket on the vertical axis, and with the conditions / combinations on the horizontal axis).  Notice that Orell Park and Walton Value had similar patterns of multi-morbidity but both of these areas are appear different from Central & Islington.  We produced similar heatmaps (counts of conditions by age bracket) for 322 areas.
+Notice that Orell Park and Walton Value had similar patterns of multi-morbidity but both of these areas are appear different from Central & Islington.  We produced similar heatmaps (counts of conditions by age bracket) for 322 areas.
 
 Each heatmap is a matrix, so we then compute all pairwise [Frobenius](https://en.wikipedia.org/wiki/Matrix_norm#Frobenius_norm) distances (Deza and Deza, 2013; pp. 217) for the 322 areas to arrive at an distance matrix that describes how 'close' or 'distant' any area is to another.
 
