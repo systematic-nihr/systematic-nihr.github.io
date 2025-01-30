@@ -13,10 +13,13 @@ We invited to stakeholders -- including people with lived experience of MLTCs --
 
 We then processed the data in a number of ways to see if we could find useful visualisation to help stakeholders with priority-setting.
 
-## Visualisations
+## Summary Descriptive Analyses
+
+## Area-based Analysis
+Acknowledging that our stakeholders (patients, carers, voluntary- and health-care sector representatives) may have different priorities reflected in terms of how deprivation, age and co-morbidities cluster together, we tried to find a way of representing this information for each of the 322 middle layer super output areas ([MSOA](https://www.ons.gov.uk/methodology/geography/ukgeographies/statisticalgeographies)) in Liverpool.   
 
 ### Most Similar Areas
-We considered an experimental approach to visualisation by first taking each [LSOA area](https://www.data.gov.uk/dataset/c481f2d3-91fc-4767-ae10-2efdf6d58996/lower-layer-super-output-areas-lsoas) and producing a heatmap that summarised the area's morbidity prevalance data.  For example, if we consider three (arbitrary) example areas:
+We considered an experimental approach to visualisation by first taking each [MSOA area](https://www.ons.gov.uk/methodology/geography/ukgeographies/statisticalgeographies) and producing a heatmap that summarised the area's morbidity prevalance data.  For example, if we consider three (arbitrary) example areas:
 
   * Walton Vale
   * Central & Islington
