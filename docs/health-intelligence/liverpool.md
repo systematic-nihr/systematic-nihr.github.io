@@ -42,7 +42,18 @@ Visually, Orell Park and Walton Value look more similar but both of these areas 
 
 ![1](../assets/example-similarity.png)
 
+### Constructing a Network Graph
+Equipped with the 61 *x* 61 matrix of similarities, we can establish -- for any given area -- which area is the *most* similar.  We then:
+
+ * represent each area by a 'node' and colour by the area's index of multiple deprivation (IMD)
+ * plot each area (node) using geo-spatial co-ordinates for the approximate centroid of the MSOA
+ * for each node, draw an edge (vertex) to the area (node) which is most similar in terms of the *age x multimorbidity* heatmap
+
+The resulting visualisation is shown below:
+
 ![1](../assets/composite-network-plot-for-web.png)
+
+
 
 ### Interactive
 
