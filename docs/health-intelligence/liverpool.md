@@ -23,7 +23,11 @@ We first take each [MSOA area](https://www.ons.gov.uk/methodology/geography/ukge
 
 With this tabulated data, we then divide the counts into 10-year age brackets.  This delivers a matrix of *age bracket x multiple conditions* where each 'cell' is the number of people in that age bracket with that condition (or combination of conditions).  As an example, the Walton Vale MSOA matrix is shown below:
 
-![1](../assets/Walton-Vale.png | width = 400)
+![1](../assets/Walton-Vale.png)
+
+<p align="center">
+    <img src="..assets/Walton-Vale.png" alt="Walton Vale Morbidity Matrix" width="300">
+</p>
 
 The grey cells are those where statistical disclosure control required that we report a floor value of 5 cases.
 
