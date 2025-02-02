@@ -6,7 +6,7 @@ tags:
 # Objective
 In this work package, we attempted to pull together and organise examples from the literature that situate *system engineering for healthcare* (for example, the [Engineering Better Care](https://raeng.org.uk/media/wwko2fs4/final-report-engineering-better-care-version-for-website.pdf) report) in the broader context of [design methods](https://en.wikipedia.org/wiki/Design_methods), [learning health systems](https://en.wikipedia.org/wiki/Learning_health_systems) and [systems science](https://en.wikipedia.org/wiki/Systems_science) more generally.
 
-This was particularly evident to us in our initial [development phase](docs/about-systematic/development-stage.md) meetings
+This was particularly evident to us in our initial [development phase](../about-systematic/development-stage.md) meetings
 
 # 3 orders of MLTC systems science
 Our cooperative of disciplines includes systems modelling, systems engineering, systemic design, clinical research, public health research, and health and care commissioning and provision.  
