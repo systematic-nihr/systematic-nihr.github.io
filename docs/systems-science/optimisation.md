@@ -4,6 +4,11 @@ hide:
 tags:
 - Stage 1
 - Systems Science
+- 1st order
+- optimisation
+- operations research
+- mathematical models
+- computatinal models
 ---
 
 # Definition
