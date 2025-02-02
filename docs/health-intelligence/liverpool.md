@@ -29,7 +29,7 @@ The broad condition groups available to us were:
  * epilepsy and other neurological conditions
  * dementia
 
-![1](docs/assets/single-condition-counts.png)
+![1](../assets/single-condition-counts.png)
 
 Following the approach taken by colleagues in [Glasgow](https://systematic-nihr.github.io/health-intelligence/glasgow/) with their secondary unplanned care data, we attempted to create similar 'clusters' of MLTCs.  Limitations in the data prevent a complete replication of the Glasgow MLTC and condition clusters.  We created clusters of conditions in the Liverpool primary care data as follows:
 
@@ -50,7 +50,7 @@ We first take each [MSOA area](https://www.ons.gov.uk/methodology/geography/ukge
 
 With this tabulated data, we then divide the counts into 10-year age brackets.  This delivers a matrix of *age bracket x multiple conditions* where each 'cell' is the number of people in that age bracket with that condition (or combination of conditions).  As an example, the Walton Vale MSOA matrix is shown below:
 
-![1](../assets/Walton-Vale.png)
+![2](../assets/Walton-Vale.png)
 
 The grey cells are those where statistical disclosure control required that we report a floor value of 5 cases.
 
