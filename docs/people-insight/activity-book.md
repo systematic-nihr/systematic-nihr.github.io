@@ -15,9 +15,9 @@ tags:
 
 :material-download: [Living with MLTC activity book](../assets/Living-with-MLTC-book.pdf){target="_blank"}
 <br>
-:material-download: [Caring for someone with MLTC activity book](Caring-for-MLTC-book.pdf){target="_blank"}
+:material-download: [Caring for someone with MLTC activity book](../assets/Caring-for-MLTC-book.pdf){target="_blank"}
 <br>
-:material-download: [Children and families activity book](){target="_blank"}
+:material-download: [Children and families activity book](../assets/Families-MLTC-book.pdf){target="_blank"}
 
 ## Overview
 
