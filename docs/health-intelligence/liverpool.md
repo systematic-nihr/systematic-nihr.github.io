@@ -39,6 +39,8 @@ Following the approach taken by colleagues in [Glasgow](https://systematic-nihr.
  * Summary "two-conditions" -- at least 2 physical health conditions *not captured in the above combinations*​
  * Summary "three-plus" conditions -- at least 3 physical health conditions *not captured in the above combinations*
 
+![2](../assets/comorbid-cluster-counts.png)
+
 ## 
 
 
