@@ -32,11 +32,17 @@ Both attempt to both describe systems and enable predictions or synthetic experi
 Importantly, because the system components are considered at a higher level of abstraction than those typifying 1st-order approaches, 2nd-order models are often large, require time-based simulation and experimentation and sacrifice the detail and tractability that make 1st order modelling attractive.  We propose 2nd-order approaches are suitable for **system innovation** (e.g. improving care pathways/services by remodelling) and revision (i.e. “designing out” bugs in healthcare processes such as medication errors). 
 
 ## Examples
-An unusual (but instructive model) uses cellular automata to simulate infectious disease propogation (Zhou, 2019).  [Cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) (CA) are essentially "grids" of simple components (cells, agents, components), each defined by homogenous rules that govern each cell's behaviour and resulting state.  The rules governing cell states (e.g. alive or dead) depends -- sometimes stochastically -- on the states of it's neighbours.  In classical two-dimensional CA, the grid arrangemed implies a spatial relationships relevant to the system being modelled -- so for example, cells can only be influenced by their immediate neighbours (e.g. the 8 neighbours in a grid of square cells).  By increasing the sophistication of the rules governing the behaviour of a cell (agent, component) and relaxing the strict homogenous grid-like structure leads to models more like to [agent-based methods](https://en.wikipedia.org/wiki/Agent-based_model).
+An unusual (but instructive model) uses cellular automata to simulate infectious disease propogation (Zhou, 2019) that produce results compatible with classical compartment models.  [Cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) (CA) are essentially "grids" of simple components (cells, agents, components), each defined by homogenous rules that govern each cell's behaviour and resulting state.  The rules governing cell states (e.g. alive or dead) depends -- sometimes stochastically -- on the states of it's neighbours.  In classical two-dimensional CA, the grid arrangemed implies a spatial relationships relevant to the system being modelled -- so for example, cells can only be influenced by their immediate neighbours (e.g. the 8 neighbours in a grid of square cells).  By increasing the sophistication of the rules governing the behaviour of a cell (agent, component) and relaxing the strict homogenous grid-like structure leads to models more like to [agent-based methods](https://en.wikipedia.org/wiki/Agent-based_model).
 
 The healthcare digital twin (Masison, 2021; Shen, 2024; Katsoulakis, 2024) represents one contemporary framework that shares modelling approaches with 2nd-order systems, but often, in an attempt to model a single component or agent (patient) as an aggregate of complex sub-systems.
 
-A helpful overview of systems approaches in health care can be found in [Komashie *et al*'s (2021)](https://bmjopen.bmj.com/content/bmjopen/11/1/e037667.full.pdf) systematic review.
+An overview of systems approaches in health care can be found in [Komashie *et al*'s (2021)](https://bmjopen.bmj.com/content/bmjopen/11/1/e037667.full.pdf) systematic review.  
+
+An overview of 2nd-order techniques employed in healthcare settings is provided in (Pitt, 2016).
+
+For a systematic review of different modelling approaches used for the specific healthcare problem of improving patient flow in emergency departments, see (Mohiuddin, 2017).
+
+
 
 # References and Further Reading
   * Clarkson, P. J. (2018). What has engineering design to say about healthcare improvement?. Design Science, 4, e17. [https://doi.org/10.1017/dsj.2018.13](https://doi.org/10.1017/dsj.2018.13)
@@ -48,4 +54,8 @@ A helpful overview of systems approaches in health care can be found in [Komashi
   * Shen, Md., *et al* (2024) The effectiveness of digital twins in promoting precision health across the entire population: a systematic review. npj Digit. Med. 7, 145 (2024). [https://doi.org/10.1038/s41746-024-01146-0](https://doi.org/10.1038/s41746-024-01146-0)
   * Katsoulakis, E., *et al* (2024) Digital twins for health: a scoping review. npj Digit. Med. 7, 77 (2024). [https://doi.org/10.1038/s41746-024-01073-0](https://doi.org/10.1038/s41746-024-01073-0)
   * Komashie, A., *et al* (2021). “Systems Approach to Health Service Design, Delivery and Improvement: A Systematic Review and Meta-Analysis.” BMJ Open 11 (1): e037667. [https://bmjopen.bmj.com/content/bmjopen/11/1/e037667.full.pdf](https://bmjopen.bmj.com/content/bmjopen/11/1/e037667.full.pdf)
+  * Pitt, M., *et al* (2016). Systems modelling and simulation in health service design, delivery and decision making. BMJ Quality & Safety, 25(1), 38–45. [https://doi.org/10.1136/bmjqs-2015-004430](https://doi.org/10.1136/bmjqs-2015-004430)
+  * Mohiuddin, S., *et al* (2017). Patient flow within UK emergency departments: A systematic review of the use of computer simulation modelling methods. BMJ Open, 7(5), e015007. [https://doi.org/10.1136/bmjopen-2016-015007](https://doi.org/10.1136/bmjopen-2016-015007)
+
+
 
