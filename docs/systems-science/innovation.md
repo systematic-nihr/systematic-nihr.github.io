@@ -9,7 +9,16 @@ tags:
 # Definition
 We propose 2nd-order approaches as those most aligned with systems engineering in healthcare (Clarkson 2018; RAE, 2017). 
 
-In common with 1st-order approaches, systems are treated as ontological entities at a defined level of abstraction. 2nd-order approaches also make use of and deliver formal models but differ from 1st-order approaches by allowing specification of a system with broad and imperfect boundaries and more tolerance for uncertainty and “unknowns”. Consequently, there is less emphasis on analytical tractability and instead, numerical approximation and simulation methods are common e.g. discrete event simulation models (Vázquez-Serrano, 2021), system dynamics (Sterman et al. 2015) or when detailed enumeration of a system’s components is difficult, statistical process control (Benneyan, Lloyd, and Plsek 2003). Qualitatively, 1st- and 2nd-order approaches differ because the former assumes a mechanistic (usually deterministic)
+In common with 1st-order approaches, systems are treated as ontological entities at a defined level of abstraction. 2nd-order approaches also make use of and deliver formal models but differ from 1st-order approaches by allowing
+
+ * specification of a system with broad and imperfect boundaries
+ * more tolerance for uncertainty and “unknowns”
+ * less emphasis on analytical tractability and instead, numerical approximation and simulation methods are common; for example discrete event simulation models (Vázquez-Serrano, 2021), system dynamics (Sterman et al. 2015) or when detailed enumeration of a system’s components is difficult, statistical process control (Benneyan, Lloyd, and Plsek 2003). 
+
+Qualitatively, 1st- and 2nd-order approaches differ because the former assumes a mechanistic (often deterministic) relationship between system inputs and outputs
+
+Importantly, because the system components are considered at a higher level of abstraction than those typifying 1st-order approaches, larger models of multiple interacting components provides a wider scope while sacrificing detail at the lower levels of description that make 1st order modelling attractive.
+
 They are suitable for system innovation (e.g. improving care pathways/services) and revision (i.e. “designing out” bugs in healthcare processes such as medication errors). Common framework tools are "people, systems, design and risk" combined with spiral process models to emphasise the iterative nature of engineering approaches
 
  
