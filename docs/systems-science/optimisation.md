@@ -25,8 +25,11 @@ A 1st-Order approach treats a system as a concrete ontological entity (i.e. a co
 
 The proposed parameterised queue model was fit to existing hospital data and the resulting model used to optimise the numbers of nurses required to service a critical care unit with varying demands in terms of elective and unplanned / emergency admissions.
 
+A helpful systematic review of pathway modelling can be found in [Aspland *et al* (2021)](https://doi.org/10.1080/20476965.2019.1652547).
+
 # References and Further Reading
   * Griffiths, Jeffrey Deacon, V Knight, and Izabela Komenda. 2013. “Bed Management in a Critical Care Unit.” IMA Journal of Management Mathematics 24 (2): 137–53. [https://doi.org/10.1093/imaman/dpr028](https://doi.org/10.1093/imaman/dpr028)
+  * Aspland, E., Gartner, D., & Harper, P. (2021). Clinical pathway modelling: A literature review. Health Systems, 10(1), 1–23. [https://doi.org/10.1080/20476965.2019.1652547](https://doi.org/10.1080/20476965.2019.1652547)
   * Computational modelling: Blackett review. (2018). [https://www.gov.uk/government/publications/computational-modelling-blackett-review](https://www.gov.uk/government/publications/computational-modelling-blackett-review)
   * Calder, M., *et al* (2018). Computational modelling for decision-making: Where, why, what, who and how. Royal Society Open Science, 5(6), 172096. [https://doi.org/10.1098/rsos.172096](https://doi.org/10.1098/rsos.172096)
 
