@@ -91,21 +91,6 @@ An interactive version of the network graph is shown below:
 <iframe src="https://systematic-nihr.github.io/network-interactive-example/networkInteractive1.html" title="D3" width="100%" height="400" style="border:none;"></iframe>
 <br />
 
-
-## Findings 
-
-![1](../assets/glasgow-hi-1.PNG)
-/// caption
-Most common phenotypes (number of people affected)
-///
-
-<br>
-
-![2](../assets/glasgow-hi-2.PNG)
-/// caption
-Differences in multimorbidity phenotypes by SIMD decile by proportion 
-///
-
 ## References and Further Reading
  * Deza, E., Deza, M. M. (2013). [Encyclopedia of distances](https://link.springer.com/book/10.1007/978-3-662-52844-0). 2nd Edition. Springer Berlin Heidelberg.
- * 
+
