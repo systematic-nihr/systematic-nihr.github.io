@@ -41,7 +41,10 @@ Following the approach taken by colleagues in [Glasgow](https://systematic-nihr.
 
 ![2](../assets/comorbid-cluster-counts.png)
 
-## 
+Plotting the counts of these clusters of conditions as proportions by index of multiple deprivation, we find:
+
+![3](../assets/MLTC-proportions-by-IMD.png)
+
 
 
 # Area-based Analysis
