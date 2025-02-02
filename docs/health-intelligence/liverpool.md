@@ -8,12 +8,28 @@ tags:
 
 # Primary care data - Liverpool
 
-## Methods
-We invited to stakeholders -- including people with lived experience of MLTCs -- to a workshop focused on priority-setting.  We wanted participants to be able to access visualisations of multi-morbidity patterns around the Merseyside region.  To do this, we used an existing primary care dataset (extracted in 2021, from the [System P](https://www.strategyunitwm.nhs.uk/system-p) project) which contains anomymised counts of different combinations of conditions. 
+## Objectives
+To develop the larger SysteMatic project, we invited stakeholders -- including people with lived experience of MLTCs -- to workshops focused on priority-setting.  We wanted people to be able to combine their individual experiences and narratives with context provided by higher-level, summary population data about the regions they reside in and where their healthcare is provided.   We decided to produce headline summaries and visualisations of multi-morbidity patterns around the Merseyside region.  To do this, we used an existing primary care dataset (extracted in 2021, from the [System P](https://www.strategyunitwm.nhs.uk/system-p) project) which contains anomymised counts of different combinations of conditions. 
 
 We then processed the data in a number of ways to see if we could find useful visualisation to help stakeholders with priority-setting.
 
 ## Summary Descriptive Analyses
+To complement similar work undertaken by our partners in Glasgow, we used primary care data for Liverpool​.  Condition groups were identified using SNOMED codes provided from a previous analysis of the same data as part of the region's wider [System P](https://www.strategyunitwm.nhs.uk/system-p) and [Data into Action](https://www.cipha.nhs.uk/) project.
+
+
+The broad condition groups available to us were:
+ * mental health (including both severe and so-called common mental illnesses)
+ * cardiovascular
+ * diabetes
+ * gastroenterological conditions
+ * cancer
+ * rheumatology
+ * chronic kidney disease
+ * asthma and chronic obstructive pulmonary disease
+ * epilepsy and oter neurological conditions
+ * dementia
+
+
 
 ## Area-based Analysis
 Acknowledging that our stakeholders (patients, carers, voluntary- and health-care sector representatives) may have different priorities reflected in terms of how deprivation, age and co-morbidities cluster together, we tried to find a way of representing this information for each of the 322 middle layer super output areas ([MSOA](https://www.ons.gov.uk/methodology/geography/ukgeographies/statisticalgeographies)) around Liverpool.   
