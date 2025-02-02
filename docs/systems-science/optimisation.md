@@ -8,7 +8,7 @@ tags:
 - optimisation
 - operations research
 - mathematical models
-- computatinal models
+- computational models
 ---
 
 # Definition
