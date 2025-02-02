@@ -13,25 +13,36 @@ To develop the larger SysteMatic project, we invited stakeholders -- including p
 
 We then processed the data in a number of ways to see if we could find useful visualisation to help stakeholders with priority-setting.
 
-## Summary Descriptive Analyses
-To complement similar work undertaken by our partners in Glasgow, we used primary care data for Liverpool​.  Condition groups were identified using SNOMED codes provided from a previous analysis of the same data as part of the region's wider [System P](https://www.strategyunitwm.nhs.uk/system-p) and [Data into Action](https://www.cipha.nhs.uk/) project.
-
+# Summary Descriptive Analyses
+To complement similar work undertaken by our partners in Glasgow, we used primary care data for Liverpool​.  Condition groups were identified using SNOMED codes provided from a previous analysis of the same data as part of the region's wider [System P](https://www.strategyunitwm.nhs.uk/system-p) and [Data into Action](https://www.cipha.nhs.uk/) projects.
 
 The broad condition groups available to us were:
  * mental health (including both severe and so-called common mental illnesses)
- * cardiovascular
+ * cardiovascular diseases (CVD)
  * diabetes
  * gastroenterological conditions
  * cancer
  * rheumatology
- * chronic kidney disease
- * asthma and chronic obstructive pulmonary disease
- * epilepsy and oter neurological conditions
+ * chronic kidney disease (CKD) and chronic liver disease (CLD)
+ * asthma
+ * chronic obstructive pulmonary disease (COPD)
+ * epilepsy and other neurological conditions
  * dementia
 
+![1](docs/assets/single-condition-counts.png)
+
+Following the approach taken by colleagues in [Glasgow](https://systematic-nihr.github.io/health-intelligence/glasgow/) with their secondary unplanned care data, we attempted to create similar 'clusters' of MLTCs.  Limitations in the data prevent a complete replication of the Glasgow MLTC and condition clusters.  We created clusters of conditions in the Liverpool primary care data as follows:
+
+ * Summary Physical/mental co-morbidity -– having one mental health condition alonside *at least* one other physical health condition​
+ * Cardio/renal/metabolic -- having one of CVD, CKD, CLD, or diabetes *and* one other physical condition but *not* a mental health or respiratory condition​
+ * Respiratory –- asthma or COPD *and* one other physical condition *excluding* mental health or cardio/renal/metabolic
+ * Summary "two-conditions" -- at least 2 physical health conditions *not captured in the above combinations*​
+ * Summary "three-plus" conditions -- at least 3 physical health conditions *not captured in the above combinations*
+
+## 
 
 
-## Area-based Analysis
+# Area-based Analysis
 Acknowledging that our stakeholders (patients, carers, voluntary- and health-care sector representatives) may have different priorities reflected in terms of how deprivation, age and co-morbidities cluster together, we tried to find a way of representing this information for each of the 322 middle layer super output areas ([MSOA](https://www.ons.gov.uk/methodology/geography/ukgeographies/statisticalgeographies)) around Liverpool.   
 
 ### Multi-morbidity by Age and Area
