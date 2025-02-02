@@ -25,17 +25,18 @@ Qualitatively, 1st- and 2nd-order approaches differ because:
  * 1st-order models usually assume a mechanistic (often deterministic, law-like) relationship between system inputs and outputs
  * feedback -- either negative (damping) or positive (amplifying) -- is rarely explicitly modelled in 1st-order systems to maintain the tractability of the models
  * 2nd-order models allow for sophisticated behaviour-based descriptions of components (e.g. modelling clinicians as agents, with beliefs, goals and repetoires of actions having consequences external to the agent)
- * 2nd-order models allow for complex dependencies (e.g. the behaviour of one component or actor  has effects on others that may not be immediately or easily predicted by having a complete description of the components/actors)
+ * 2nd-order models allow for complex dependencies (e.g. the behaviour of one component or actor has effects on others that may not be immediately or easily predicted by having a complete description of the components/actors)
 
-Both attempt to both describe systems and enable predictions or synthetic experiments to test counter-factuals (e.g. "if we increase the number of beds, does an outcome change?") that are impractical or costly to test practically without being constrained by some modelling.
+Both attempt to both describe systems and enable predictions or synthetic experiments to test counter-factuals (e.g. "if we increase the number of beds, does service throughput change?") that are impractical or costly to test practically without being constrained by some modelling.
 
-Importantly, because the system components are considered at a higher level of abstraction than those typifying 1st-order approaches, these models of multiple interacting components provides often emphasise simulation, sacrifice the detail and tractability that make 1st order modelling attractive.
-
-We propose 2nd-order approaches are suitable for **system innovation** (e.g. improving care pathways/services by remodelling) and revision (i.e. “designing out” bugs in healthcare processes such as medication errors). Common framework tools are "people, systems, design and risk" combined with spiral process models to emphasise the iterative nature of engineering approaches.
+Importantly, because the system components are considered at a higher level of abstraction than those typifying 1st-order approaches, 2nd-order models are often large, require time-based simulation and experimentation and sacrifice the detail and tractability that make 1st order modelling attractive.  We propose 2nd-order approaches are suitable for **system innovation** (e.g. improving care pathways/services by remodelling) and revision (i.e. “designing out” bugs in healthcare processes such as medication errors). Common framework tools are "people, systems, design and risk" combined with spiral process models to emphasise the iterative nature of engineering approaches.
 
  
 ## Examples
-The healthcare digital twin ()
+The healthcare digital twin (Masison, 2021; Shen, 2024; Katsoulakis, 2024) represents one contemporary framework that shares modelling approaches with 2nd-order systems, but often, in an attempt to model a single component or agent (patient) as an aggregate of complex sub-systems.
+
+An unusual (but instructive model) uses cellular automata to simulate infectious disease propogation (Zhou, 2019).  [Cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) (CA) are essentially "grids" of simple components (cells, agents, components), each defined by homogenous rules that govern each cell's behaviour and resulting state.  The rules governing cell states (e.g. alive or dead) depends -- sometimes stochastically -- on the states of it's neighbours.  In classical two-dimensional CA, the grid arrangemed implies a spatial relationships relevant to the system being modelled -- so for example,cells can only be influenced by their immediate neighbours (e.g. the 8 neighbours in a grid of square cells).  By increasing the sophistication of the rules governing the behaviour of a cell (agent, component) 
+
 
 A helpful overview of systems approaches in health care can be found in [Komashie *et al*'s (2021)](https://bmjopen.bmj.com/content/bmjopen/11/1/e037667.full.pdf) systematic review.
 
@@ -46,5 +47,7 @@ A helpful overview of systems approaches in health care can be found in [Komashi
   * Sterman, J. *et al* (2015). “System Dynamics Perspectives and Modeling Opportunities for Research in Operations Management.” Journal of Operations Management 39: 40. [https://onlinelibrary.wiley.com/doi/10.1016/j.jom.2015.07.001](https://onlinelibrary.wiley.com/doi/10.1016/j.jom.2015.07.001)
   * Benneyan, JC, RC Lloyd, and PE Plsek. 2003. “Statistical Process Control as a Tool for Research and Healthcare Improvement.” [BMJ Quality & Safety](https://qualitysafety.bmj.com/content/qhc/12/6/458.full.pdf?casa_token=tbKNbw0ZOIAAAAAA:sIQycJmlh-3h9Y4IBSJD_16AKydevbrUhB1adjxr8UIV99HMufE4-D2pNoDStWUaf7VZqSnoZSKd) 12 (6): 458–64.
   * Masison, J., *et al* (2021). A modular computational framework for medical digital twins. Proceedings of the National Academy of Sciences, 118(20), e2024287118. [https://www.pnas.org/doi/pdf/10.1073/pnas.2024287118](https://www.pnas.org/doi/pdf/10.1073/pnas.2024287118)
+  * Shen, Md., *et al* (2024) The effectiveness of digital twins in promoting precision health across the entire population: a systematic review. npj Digit. Med. 7, 145 (2024). [https://doi.org/10.1038/s41746-024-01146-0](https://doi.org/10.1038/s41746-024-01146-0)
+  * Katsoulakis, E., *et al* (2024) Digital twins for health: a scoping review. npj Digit. Med. 7, 77 (2024). [https://doi.org/10.1038/s41746-024-01073-0](https://doi.org/10.1038/s41746-024-01073-0)
   * Komashie, A., *et al* (2021). “Systems Approach to Health Service Design, Delivery and Improvement: A Systematic Review and Meta-Analysis.” BMJ Open 11 (1): e037667. [https://bmjopen.bmj.com/content/bmjopen/11/1/e037667.full.pdf](https://bmjopen.bmj.com/content/bmjopen/11/1/e037667.full.pdf)
 
