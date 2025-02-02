@@ -13,9 +13,9 @@ tags:
 3 activity books developed during Stage 1.
 ///
 
-:material-download: [Living with MLTC activity book](){target="_blank"}
+:material-download: [Living with MLTC activity book](../assets/Living-with-MLTC-book.pdf){target="_blank"}
 <br>
-:material-download: [Caring for someone with MLTC activity book](){target="_blank"}
+:material-download: [Caring for someone with MLTC activity book](Caring-for-MLTC-book.pdf){target="_blank"}
 <br>
 :material-download: [Children and families activity book](){target="_blank"}
 
