@@ -26,7 +26,7 @@ Together, we will identify, prioritise and co-design a programme of work focused
 This programme will develop new ideas for technologies, service changes and pathways across services to improve person-centred care equitably.
 
 ## Partners
-Researchers are based at The University of Liverpool and University of Glasgow. We care deeply about co-developing recommendations to ensure that they are patient-centred so work closely with public patient and carer representatives (read more from our [Public Advisors here](../people-inisght/public-involvement-blog.md)). 
+Researchers are based at The University of Liverpool and University of Glasgow. We care deeply about co-developing recommendations to ensure that they are patient-centred so work closely with public patient and carer representatives (read more from our [Public Advisors here](../people-insight/public-involvement-blog.md)). 
 
 ## Funding 
 This study was funded by the National Institute for Health and Care Research (NIHR) and Engineering and Physical Sciences Research Council (EPSRC) under its Systems Engineering Innovation hubs for Multiple long-term Conditions (SEISMIC) Programme (NIHR157712). The views expressed are those of the authors and not necessarily those of the NIHR or the Department of Health and Social Care.
