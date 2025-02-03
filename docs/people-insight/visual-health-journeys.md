@@ -4,6 +4,7 @@ hide:
 tags:
 - Stage 1
 - Methods & tools
+- Arts-based methods
 ---
 
 # Visualised health journeys
@@ -14,7 +15,7 @@ Health timeline.
 ///
 
 ## Overview  
-Participants constructed visual narratives that illustrated their health journeys over time by drawing a timeline of their health.
+Visual health journeys were used in workshops and the [activity books](activity-book.md). Participants constructed visual narratives that illustrated their health journeys over time by drawing a timeline of their health.
 
 ## Application & use  
 Paper and coloured pens were provided, allowing participants to express key health milestones, challenges and successes visually. Through sharing these visual representations within groups, common themes emerged, providing insight into the shared struggles and triumphs of participants.
