@@ -48,4 +48,4 @@ Resources in the commons are assigned tags according to categories such as proje
 <br>
 <br>
 
-![logos](../assets/homepage-logos.jpg){: style="transform: scale(0.7);"}
+![logos](assets/homepage-logos.jpg){: style="transform: scale(0.7);"}
