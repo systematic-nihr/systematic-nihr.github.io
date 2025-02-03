@@ -6,6 +6,7 @@ tags:
 - Qualitative insight
 - Animation
 - Video
+- Methods & tools
 ---
 # Animation
 
