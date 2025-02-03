@@ -36,7 +36,7 @@ At present, the site is organised according to the process adopted during the [S
 | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Stage 0: Convene the design cooperative                             | About SysteMatic [:octicons-arrow-right-24:](about-systematic/index.md)                                              |
 | Stage 1: Deep dives                                                 | Health Intelligence (Quantitative data) [:octicons-arrow-right-24:](health-intelligence/index.md)<br>People Insights (Qualitative data) [:octicons-arrow-right-24:](people-insight/index.md)<br>Systems Science [:octicons-arrow-right-24:](systems-science/index.md) |
-| Stage 2: Co-identify problems & priorities <br> Stage 3: Co-define visions & targets <br> Stage 4: Co-produce business plan    | Transdisciplinary Synthesis & Strategy [:octicons-arrow-right-24:](transdisciplinary-synthesis-strategy.md)    |
+| Stage 2: Co-identify problems & priorities <br> Stage 3: Co-define visions & targets <br> Stage 4: Co-produce business plan    | Transdisciplinary Synthesis & Strategy [:octicons-arrow-right-24:](transdisciplinary-synthesis-strategy/index.md)    |
 
 <br>
 
