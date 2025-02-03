@@ -4,6 +4,8 @@ hide:
 tags:
 - Stage 1
 - Models, frameworks & strategies
+- Inclusive Design
+- Systemic Design
 ---
 
 # Persona set
