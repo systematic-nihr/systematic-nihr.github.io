@@ -10,7 +10,7 @@ tags:
 ---
 
 # Principles for person mapping  
-In this person mapping section, we focus on strategies for unpacking and communicating insight at the **person level**, as foundational contextual information before moving on to the [journeys](journey-maps.md) and [systems](system-maps.md) levels. This covers creating [*person maps*](person-maps.md) that provide a rich picture of individuals living with MLTC and their contexts, then moving beyond individual stories to curate a [*systemic persona set*](persona-set.md), and finally using [animation](animation.md) to bring people's stories to life.  
+In this person mapping section, we focus on strategies for unpacking and communicating insight at the **person level**, as foundational contextual information before moving on to the [journeys](journey-maps.md) and [systems](system-maps.md) levels. This covers creating [*person maps*](person-maps.md) that provide a rich picture of individuals living with MLTC and their contexts, then moving beyond individual stories to curate a [*persona set*](persona-set.md), and finally using [animation](animation.md) to bring people's stories to life.  
 
 The following four core principles underpin our approach to person mapping: 
 
