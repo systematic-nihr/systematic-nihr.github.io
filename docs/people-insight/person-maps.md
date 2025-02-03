@@ -6,6 +6,8 @@ tags:
 - Models, frameworks & strategies
 - Methods & tools
 - Video
+- Inclusive Design
+- Human-Centred Design
 ---
 
 # MLTC Personas / Person maps
@@ -17,7 +19,15 @@ Example person map used Liverpool Stage 2 workshop.
 
 ## Overview
 
-Person maps are a tool to develop rich understanding of people with MLTC, including their needs, goals and behaviours. Extending beyond conventional persona representations, which are criticised for stereotyping, bias and being reductive,[^1][^2][^3] the maps integrate systemic and contextual factors, emphasising how individuals’ experiences are shaped by a) their interactions with others (households, communities, clinicians); b) their journeys through the healthcare system; and c) the broader context of their lives. Incorporating Inclusive Design principles, the maps represent a range of mainstream and extreme users, scenarios and contexts,[^4] including representing diverse health conditions experienced by marginalised groups.
+Person maps are a tool to develop rich understanding of people with MLTC, including their needs, goals and behaviours. Extending beyond conventional persona representations, which are criticised for stereotyping, bias and being reductive,[^1][^2][^3] the maps integrate systemic and contextual factors, emphasising how individuals’ experiences are shaped by a) their interactions with others (households, communities, clinicians); b) their journeys through the healthcare system; and c) the broader context of their lives. Incorporating Inclusive Design principles, the maps represent a range of mainstream and extreme users, scenarios and contexts,[^4] including representing diverse health conditions experienced by marginalised groups.  
+
+**Public advisor, Ali, shares her perspective on the Person maps below:**
+
+<div>
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe src="https://www.youtube.com/embed/XKiM1-K0pss" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+  </div>
+</div>
 
 ## Application & use
 
@@ -37,15 +47,6 @@ The person maps are to be viewed a work in progress – open to continual develo
 The Person maps provide rich insights about people with MLTC, effectively illustrating the complex challenges different population segments face in accessing healthcare. This is important alongside the population-level data that is typically used to understand and make decisions about MLTC. By adopting an equity lens, Person maps enable stakeholders to move beyond generic representations, and consider a range of people with MLTC – particularly those at the ‘extremes’. This method showcased the need for policies that address systemic inequities and promote inclusivity, to consider the holistic health needs of the most marginalised in our society.  
 
 Person maps should be contextual and co-produced within the project context - rather than using a standard template.
-
-
-**Public advisor, Ali, shares her perspective on the Person maps below:**
-
-<div>
-  <div style="position:relative;padding-top:56.25%;">
-    <iframe src="https://www.youtube.com/embed/XKiM1-K0pss" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-  </div>
-</div>
 
 
 ## References
