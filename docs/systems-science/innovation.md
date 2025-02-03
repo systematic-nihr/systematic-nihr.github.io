@@ -5,10 +5,9 @@ tags:
 - Stage 1
 - Systems Science
 - Systems engineering
-- computational models
-- statistical models
-- mathematical models
-- 
+- Computational models
+- Statistical models
+- Mathematical models
 ---
 
 # Definition
