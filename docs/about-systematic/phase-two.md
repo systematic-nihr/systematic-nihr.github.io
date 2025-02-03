@@ -3,7 +3,7 @@ hide:
 - toc
 ---
 
-# SysteMatic phase 2
+# SysteMatic phase two
 
 ## Project timeline 
 
