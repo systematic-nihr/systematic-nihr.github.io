@@ -16,7 +16,7 @@ Our [secondary care data analysis](../health-intelligence/glasgow.md) showed tha
 ## Innovating prevention, supported self-management, and care navigation
 The phase two hub targets three areas for innovation in 1) prevention, 2) supported self-management, and 3) care navigation, as key areas which came up during the development phase. 
 
-## Foundational People Inisght models 
+## Foundational People Insight models 
 Based on qualitative and quantitative information, we co-developed [MLTC person maps](../people-insight/person-maps.md), [care journey](../people-insight/journey-maps.md) and [system](../people-insight/system-maps.md) models that will act as blueprints and underpin our innovation partnership. 
 
 ## Civic learning system
