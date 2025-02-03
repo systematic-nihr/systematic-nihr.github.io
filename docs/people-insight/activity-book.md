@@ -5,6 +5,8 @@ tags:
 - Stage 1
 - Methods & tools
 - Video
+- Human-Centred Design
+- Inclusive Design
 ---
 
 # MLTC activity books
