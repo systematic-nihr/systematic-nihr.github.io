@@ -16,6 +16,8 @@ tags:
 Example person map used Liverpool Stage 2 workshop.
 ///
 
+:material-download: [Person map template](../assets/person-map-template.pdf){target="_blank"}
+
 ## Overview
 
 Person maps are a tool to develop rich understanding of people with MLTC, including their needs, goals and behaviours. Extending beyond conventional persona representations, which are criticised for stereotyping, bias and being reductive,[^1][^2][^3] the maps integrate systemic and contextual factors, emphasising how individuals’ experiences are shaped by a) their interactions with others (households, communities, clinicians); b) their journeys through the healthcare system; and c) the broader context of their lives. Incorporating Inclusive Design principles, the maps represent a range of mainstream and extreme users, scenarios and contexts,[^4] including representing diverse health conditions experienced by marginalised groups.  
