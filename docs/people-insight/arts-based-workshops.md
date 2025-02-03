@@ -4,11 +4,10 @@ hide:
 tags:
 - Stage 1
 - Methods & tools
+- Arts-based methods
 ---
 
 # Arts-based workshops 
-
-## Overview 
 
 In Glasgow, we used participatory arts-based methods to explore the nuanced experiences of living with multiple long-term conditions, including use of healthcare. These arts-based approaches facilitated participant engagement and encouraged seldom heard voices to be included in health discussions, driving towards more equitable health policies and practices.
 
