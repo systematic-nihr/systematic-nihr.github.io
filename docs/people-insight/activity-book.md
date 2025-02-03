@@ -101,5 +101,4 @@ The activity books yielded valuable and multifaceted insights into the lives of 
 ## References
 
 [^1]:
-  Wherton J, et al. Designing assisted living technologies ‘in the wild’: preliminary experiences with cultural probe methodology. BMC medical research methodology 2012;12(1), pp.1-13. [doi.org/10.1186/1471-2288-
-12-188](doi.org/10.1186/1471-2288-12-188){target="_blank"}
+  Wherton J, et al. Designing assisted living technologies ‘in the wild’: preliminary experiences with cultural probe methodology. BMC medical research methodology 2012;12(1), pp.1-13.
