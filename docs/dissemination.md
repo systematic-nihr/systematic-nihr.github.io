@@ -16,7 +16,7 @@ hide:
 - [Designing with People, Systems and Data in Health
 An advanced design-led approach introducing Person-Journey-System Maps for Multiple Long-Term Conditions | Alan Turing Institute | Seminar](https://www.turing.ac.uk/events/designing-people-systems-and-data-health){target="_blank"}  
 
-- [North American Primary Care Research Group (NAPCRG) 52nd Annual Meeting November 20-24, 2024 | Québec City Convention Center, Canada | Poster](../assets/NAPCRG.pdf){target="_blank"}  
+- [North American Primary Care Research Group (NAPCRG) 52nd Annual Meeting November 20-24, 2024 | Québec City Convention Center, Canada | Poster](assets/NAPCRG.pdf){target="_blank"}  
 
 - Cheshire and Merseyside ICB Away Day - SysteMatic was used as a case study for the event
 
