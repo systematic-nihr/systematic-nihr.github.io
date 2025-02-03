@@ -4,6 +4,7 @@ hide:
 tags:
 - Stage 1
 - Methods & tools
+- Arts-based methods
 ---
 
 # Photovoice
