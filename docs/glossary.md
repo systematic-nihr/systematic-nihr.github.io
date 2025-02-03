@@ -115,7 +115,7 @@ Federated data is a data management strategy that combines data from multiple so
 <br>  
 
 **ForEquity: Focus on Research and Equity**  
-A suite of tools and resources developed by ARC NWCOAST to help make research evidence more relevant for action to reduce social and health inequalities. FOR-EQUITY – tools and resources to help reduce social and health inequalities [forequity.uk](forequity.uk).  
+A suite of tools and resources developed by ARC NWCOAST to help make research evidence more relevant for action to reduce social and health inequalities. FOR-EQUITY – tools and resources to help reduce social and health inequalities [forequity.uk](https://www.forequity.uk).  
 
 <br>  
 
