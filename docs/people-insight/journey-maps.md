@@ -5,6 +5,7 @@ tags:
 - Stage 1
 - Models, frameworks & strategies
 - Methods & tools
+- Human-Centred Design
 ---
 
 # MLTC journey mapping
