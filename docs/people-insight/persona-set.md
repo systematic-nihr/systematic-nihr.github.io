@@ -20,12 +20,12 @@ The persona set is being revised, refined and validated through stakeholder enga
 
 | Persona     | Description                     | Further detail                 |
 | ----------- |-------------------------------- | ------------------------------ |
-| Lucy, 55   | **Isolated self-manager** <br> Lives with contested conditions, no support, feels dismissed & abandoned. | [Lucys person map]() <br> [Lucy & Anitas story]()  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-| Anita, 41  | **Overstretched GP** <br> Balancing person-centred care with systemic inefficiencies, heavy caseloads, and burnout. | [Lucy & Anitas story]() |
-| Robert, 45 | **Stigmatised & healthcare avoidant** <br> Previous experiences of care, addiction, and institutionalisation. Distrust and avoidance of healthcare, and difficulty prioritising his health due to past adversity and low self-worth. | [Roberts person map]() <br> [Animation about Robert]() <br> [Robert & Dans story]()|
-| Dan, 33    | **Recovery worker** <br> Balancing workload with emotional demands, lack of resources. | [Robert & Dans story]() |
-| John, 60   | **Expert patient & resilient carer** <br> Manages his own MLTC, cares for his wife and her mother. Due to bad previous experiences, he doesn’t always trust health professionals and strongly feels that the patient is an expert in their own body. Persistently challenges the system.  | [Johns person map]() <br> [John & Kathys story]() |
-| Fozia, 47  | **Burnt out mum & carer** <br> Overwhelmed by balancing work, family life, and caring for her son with MLTC. Exhaustion, financial strain, and a lack of respite are impacting her physical and mental health.  | [Fozias person map]() <br> [Fozia & Mohameds story]() |
+| Lucy, 55   | **Isolated self-manager** <br> Lives with contested conditions, no support, feels dismissed & abandoned. | [Lucy's person map]() <br> [Lucy & Anita's story]()  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| Anita, 41  | **Overstretched GP** <br> Balancing person-centred care with systemic inefficiencies, heavy caseloads, and burnout. | [Lucy & Anita's story]() |
+| Robert, 45 | **Stigmatised & healthcare avoidant** <br> Previous experiences of care, addiction, and institutionalisation. Distrust and avoidance of healthcare, and difficulty prioritising his health due to past adversity and low self-worth. | [Robert's person map]() <br> [Animation about Robert]() <br> [Robert & Dan's story]()|
+| Dan, 33    | **Recovery worker** <br> Balancing workload with emotional demands, lack of resources. | [Robert & Dan's story]() |
+| John, 60   | **Expert patient & resilient carer** <br> Manages his own MLTC, cares for his wife and her mother. Due to bad previous experiences, he doesn’t always trust health professionals and strongly feels that the patient is an expert in their own body. Persistently challenges the system.  | [John's person map]() <br> [John & Kathy's story]() |
+| Fozia, 47  | **Burnt out mum & carer** <br> Overwhelmed by balancing work, family life, and caring for her son with MLTC. Exhaustion, financial strain, and a lack of respite are impacting her physical and mental health.  | [Fozias person map]() <br> [Fozia & Mohamed's story]() |
 
 ## Application & use
 
