@@ -50,7 +50,7 @@ Left: framework of extreme-mainstream dimensions extracted from person maps. Rig
 - Lucy’s fluctuating energy means that some days she's capable of going out, while on others she is housebound
 - John’s experience with diabetes has changed over time; after a long time of feeling out of control and angry, his relationship towards his own health & the healthcare system has completely shifted
   
-![Dynamic persona wheel](..assets/dynamic-persona.png)
+![Dynamic persona wheel](..assets/john.gif)
 
 
 **Systemic.**  The persona set includes stories from multiple stakeholders across different segments of our [MLTC systems actor map](actor-map.md). This stories highlight how these diverse perspectives intersect and relate. It highlights interconnected stories and systemic issues across different parts of the MLTC system.
