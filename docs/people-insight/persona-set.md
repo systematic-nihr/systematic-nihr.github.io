@@ -31,30 +31,23 @@ The persona set is being revised, refined and validated through stakeholder enga
 
 The persona set is produced and validated with system stakeholders. It reflects our [principals for person mapping](principles-person-maps.md):  
 
-**Dimensional & diverse**  
+**Dimensional & diverse.** We use a framework based on the dimensions of the person maps to consider extreme-mainstream dimensions across personhood, health, and patienthood. The lived experience personas selected represent different extremes and mainstreams across these dimensions. 
 
 [Persona set extreme-mainstreams](..assets/persona-set.png)
 
-We use a framework based on the dimensions of the person maps to consider extreme-mainstream dimensions across personhood, health, and patienthood. The lived experience personas selected represent different extremes and mainstreams across these dimensions.
 
-
-**Dynamic**  
-
-[Dynamic persona wheel](..assets/dynamic-persona.png)
-
-Recognising that a person's context, health and patienthood may change over time, or in different scenarios (i.e. long-term, temporary, or situational). For example: 
+**Dynamic.** Recognising that a person's context, health and patienthood may change over time, or in different scenarios (i.e. long-term, temporary, or situational). For example: 
 
 - Lucy’s fluctuating energy means that some days she's capable of going out, while on others she is housebound
 - John’s experience with diabetes has changed over time; after a long time of feeling out of control and angry, his relationship towards his own health & the healthcare system has completely shifted
+  
+[Dynamic persona wheel](..assets/dynamic-persona.png)
 
 
-**Systemic**  
+**Systemic.**  The persona set includes stories from multiple stakeholders across different segments of our [MLTC systems actor map](actor-map.md). This stories highlight how these diverse perspectives intersect and relate. It highlights interconnected stories and systemic issues across different parts of the MLTC system.
 
 [Persona network](..assets/persona-network.png)
 
-The persona set includes stories from multiple stakeholders across different segments of our [MLTC systems actor map](actor-map.md). This stories highlight how these diverse perspectives intersect and relate. It highlights interconnected stories and systemic issues across different parts of the MLTC system.
-
-<br> 
 
 We will continue to refine and co-produce the persona set with PPIE partners and system stakeholders. Including incorporating views from target populations for specific projects. The persona set will be used as exemplars alongside stakeholder engagement to test and validate innovations.
 
