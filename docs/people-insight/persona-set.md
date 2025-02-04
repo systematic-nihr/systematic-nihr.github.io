@@ -53,10 +53,7 @@ Left: framework of extreme-mainstream dimensions extracted from person maps. Rig
 ![Dynamic persona wheel](../assets/john.gif)
 
 
-**Systemic.**  The persona set includes stories from multiple stakeholders across different segments of our [MLTC systems actor map](actor-map.md). This stories highlight how these diverse perspectives intersect and relate. It highlights interconnected stories and systemic issues across different parts of the MLTC system.
-
-![Persona network](../assets/persona-network.png)
-
+**Systemic.**  The persona set includes stories from multiple stakeholders across different segments of our [MLTC systems actor map](actor-map.md). This stories highlight how these diverse perspectives intersect and relate. 
 
 We will continue to refine and co-produce the persona set with PPIE partners and system stakeholders. Including incorporating views from target populations for specific projects. The persona set will be used as exemplars alongside stakeholder engagement to test and validate innovations.
 
