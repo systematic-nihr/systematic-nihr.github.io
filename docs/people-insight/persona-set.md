@@ -53,6 +53,9 @@ Left: framework of extreme-mainstream dimensions extracted from person maps. Rig
   
 ![Dynamic persona wheel](../assets/john.gif)
 
+/// caption
+Dimensions of John's person map changing over time.
+///
 
 **Systemic.**  The persona set includes stories from multiple stakeholders across different segments of our [MLTC systems actor map](actor-map.md). This stories highlight how these diverse perspectives intersect and relate. 
 
