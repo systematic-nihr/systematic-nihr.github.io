@@ -17,14 +17,14 @@ An equity learning system fosters continuous improvement and innovation through 
 
 ![v1](../assets/learning-system-v1.png)
 
-## V3
-
-![v3](../assets/learning-system-v3.png)
-
-
 ## V2
 
 ![v2](../assets/learning-system-v2.png)
+
+
+## V3
+
+![v3](../assets/learning-system-v3.png)
 
 
 ## V4 
