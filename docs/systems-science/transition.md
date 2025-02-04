@@ -10,9 +10,11 @@ tags:
 ---
 
 # Definition
-Hieronymi (2013) provides the heuristic that "*Classical analytical problem solving works fine for isolated problems with pre-stated goals. Systemic methods, on the other hand, are especially helpful when many different stakeholders interact in a dynamic complex setting, where there is no initial consensus on the problem definition, the expected future, or a shared vision of what to reach.*". 3rd-order approaches are therefore characterised by drawing widely from eclectic theoretical orientations of "systems theory" as they are defined and discussed in a very diverse literature ranging from biology, physics and mathematics through to social sciences.  
+Hieronymi (2013) describes the heuristic that "*Classical analytical problem solving works fine for isolated problems with pre-stated goals. Systemic methods, on the other hand, are especially helpful when many different stakeholders interact in a dynamic complex setting, where there is no initial consensus on the problem definition, the expected future, or a shared vision of what to reach.*". 3rd-order approaches are therefore characterised by drawing widely from eclectic theoretical orientations of "systems theory" as defined and discussed in the diverse literature spanning biology, physics and mathematics through to social sciences.  
 
-Defining the qualitative boundaries between 1st- and 2nd-order approaches is difficult because 3rd-order approaches often use or encompass theory (e.g. concepts such as feedback and regulation, adapatation or learning, system instability and complex dynamics) and methods (e.g. mathematical and computational techniques) common to all three orders.  3rd-order approaches often use the concepts from 1st and 2nd-order approaches qualitatively rather than quantitatively or literally; for example, while a 3rd-order model might articulate the existence of negative feedback between two or more system components, we are unlikely to be able to produce a useful quantitative model that describes and makes quantitative predictions about the feedback processes using coupled differential equations or state-space models.
+Defining the qualitative boundaries between 1st- and 2nd-order approaches is difficult because 3rd-order approaches often use or encompass theory (e.g. concepts such as feedback and regulation, adapatation or learning, system instability and complex dynamics) and methods (e.g. mathematical and computational techniques) common to all three orders.  
+
+3rd-order approaches often use the concepts from 1st and 2nd-order approaches qualitatively rather than quantitatively or literally; for example, while a 3rd-order model might articulate the existence of negative feedback between two or more system components, we are unlikely to be able to produce a useful quantitative model that describes and makes quantitative predictions about the feedback processes using differential equations or state-space models.
 
 Approaches we have called 3rd-order are those that don't seek to optimise or necessarily innovate on an existing model of a system (for example, improving patient throughput *given* a set of existing services and constraints to be satisfied) but rather, may help transition from an existing model of healthcare to something very different and re-imagined.  This open-endedness implies that some of the resulting models or tentative proposals for a healthcare system are incompatible with how healthcare is currently understood or delivered; i.e. they may be unrealistic given the immediate and medium-term funding for acute and secondary care in hospitals.  
 
@@ -38,8 +40,14 @@ A coarse and qualitative distinction between 1st/2nd-order and a 3rd-Order appro
 ## Examples
 A helpful summary of the field of general systems theory can be found in ().  This paper articulates important historical connections between different scientific approaches to systems (e.g. 
 
+We located two papers that survey the sometimes perplexing array of methods, theories and approaches in the field of systems science and thinking -- both of which help provide context and history relevant to undertanding the field () 
+
 # References and Further Reading
-  * 
+ * Cabrera, D., Cabrera, L., & Powers, E. (2015). A Unifying Theory of Systems Thinking with Psychosocial Applications. Systems Research and Behavioral Science, 32(5), 534–545. [https://doi.org/10.1002/sres.2351](https://doi.org/10.1002/sres.2351)
+ * Checkland, P. (2012). Four Conditions for Serious Systems Thinking and Action. Systems Research and Behavioral Science, 29(5), 465–469. [https://doi.org/10.1002/sres.2158](https://doi.org/10.1002/sres.2158)
+ * Preiser, R. (2019). Identifying general trends and patterns in complex systems research: An overview of theoretical and practical implications. Systems Research and Behavioral Science, 36(5), 706–714. [https://doi.org/10.1002/sres.2619](https://doi.org/10.1002/sres.2619)
+ * 
+
 
 
 
