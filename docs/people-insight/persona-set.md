@@ -33,7 +33,7 @@ The persona set is being revised, refined and validated through stakeholder enga
 
 The persona set is produced and validated with system stakeholders. It reflects our [principals for person mapping](principles-person-maps.md):  
 
-**Dimensional & diverse.** We use a framework based on the dimensions of the person maps to consider extreme-mainstream dimensions across personhood, health, and patienthood. The lived experience personas selected represent different extremes and mainstreams across these dimensions. 
+**Dimensional & diverse.** We use a framework based on the dimensions of the person maps to consider extreme-mainstream dimensions across person, context, health and patienthood. The lived experience personas selected represent different extremes and mainstreams across these dimensions. 
 
 <div class="grid" markdown>
     
