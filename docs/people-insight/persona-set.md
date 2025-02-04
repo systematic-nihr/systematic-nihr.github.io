@@ -6,6 +6,7 @@ tags:
 - Methods & tools
 - Inclusive Design
 - Systemic Design
+- Human-Centred Design
 ---
 
 # Persona set
