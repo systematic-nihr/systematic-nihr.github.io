@@ -17,4 +17,6 @@ In addressing complex, systemic problems, it is crucial to intervene at multiple
 - Targeting multiple system building blocks in each brief (linked problems and building blocks tackling)
 
 :material-download: [Prioritisation framework template](../assets/problem-prioritisation.md){target="_blank"}  
+
+**Read more about the prioritisation framework here:**  
 :material-download: [Co-identifying and co-prioritising key challenges in MLTC systems - Liverpool - Stage 2 Report](){target="_blank"}
