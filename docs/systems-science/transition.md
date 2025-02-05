@@ -5,8 +5,8 @@ tags:
 - Stage 1
 - Systems Science
 - Systems engineering
-- soft systems models
-- socio-technical systems
+- Soft systems models
+- Socio-technical systems
 ---
 
 # Definition
@@ -30,6 +30,16 @@ The overarching tenets of 3rd-order approaches are:
  
 Consequently, a 3rd-order approach naturally invites methodology/frameworks such as participatory design, patient-public co-design, soft-systems methdology (SSM) (Augustsson, Churruca, and Braithwaite 2019) and action research (Checkland 2012; Koshy, Koshy, and Waterman 2010; Meyer 2000) but importantly, does not exclude formal methods (Schwaninger and Grösser 2008) e.g. agent-based modelling and system dynamics (Liu et al. 2018). The emphasis on complexity as a function of unpredictable actors (people/professionals) and uncertainty that is difficult to capture using more familiar formal methods (as in 1st- and 2nd-order systems) but invite ...? Farnaz: If I’ve understood our discussion correctly : 3rd order is where design practice/theory would link in – could you furnish some text/citations and elaborate ?.
 
+Design to...
+Sensemake & visualise complexity: Design synthesis attempts to interpret and make meaning out of multiple interconnected/conflicting sources of qual and quant data, and to make it explicit through various forms of externalisation, modelling and visualisation.
+Generate & test alternative futures: Transitioning systems requires envisioning futures that are not simply extrapolations of the present (Dunne & Raby, 2013). Methods such as critical design, speculative design, and [transition design](https://transitiondesignseminarcmu.net/the-transition-design-framework/) (Irwin, 2015) facilitate engagement with radical alternatives.
+Non-linear, iterative/adaptive, co- evolutionary processes : Given the inherent unpredictability of complex systems, design-based approaches emphasise iterative processes including prototyping, adaptive learning, embedding feedback mechanisms.
+
+
+[Systems Shifting Design Report from Design Council](https://www.designcouncil.org.uk/our-resources/archive/reports-resources/download-our-systems-shifting-design-report-1/) 
+- distinguishes ‘system-conscious design’ i.e. design as practiced with an awareness of the wider system context and perception of interdependence, and ‘system-shifting design’ i.e. design with the specific objective of changing a system - a practice that is expansive and transcends rather than simply merges design with systems thinking (this is 3rd order).
+- being aware that no static ‘solution’ is possible to a living evolving web of interconnected problems - multiple points of intervention that collectively steer the system in the desired direction
+
  
 ## Examples
 A helpful summary of the field of general systems theory can be found in ().  This paper articulates important historical connections between different scientific approaches to systems (e.g. 
@@ -46,6 +56,9 @@ Checkland (2000) surveys a large body of work on SSM using social and health car
  * Preiser, R. (2019). Identifying general trends and patterns in complex systems research: An overview of theoretical and practical implications. Systems Research and Behavioral Science, 36(5), 706–714. [https://doi.org/10.1002/sres.2619](https://doi.org/10.1002/sres.2619)
  * Reynolds, Martin, Emily Gates, Richard Hummelbrunner, Mita Marra, and Bob Williams. (2016) Towards Systemic Evaluation. Systems Research and Behavioral Science 33 (5): 662–73. [https://onlinelibrary.wiley.com/doi/10.1002/sres.2423](https://onlinelibrary.wiley.com/doi/10.1002/sres.2423)
  * Augustsson, Hanna, Kate Churruca, and Jeffrey Braithwaite. (2019) Re-Energising the Way We Manage Change in Healthcare: The Case for Soft Systems Methodology and Its Application to Evidence-Based Practice. BMC Health Services Research 19 (1): 1–11. [https://doi.org/10.1186/s12913-019-4508-0](https://doi.org/10.1186/s12913-019-4508-0)
+
+Dunne, A., & Raby, F. (2013). Speculative Everything: Design, Fiction, and Social Dreaming. MIT Press.
+Irwin, T. (2015). Transition Design: A Proposal for Advancing Design as a Transformational Discipline. Design Philosophy Papers, 13(1), 57-66.
 
 
 
