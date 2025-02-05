@@ -69,6 +69,11 @@ Cultural probes are an approach to qualitative user research where face-to-face 
 **DAAG**  
 Data Asset and Access Group - describes a system to limit or grant access to specific data records for data security purposes  
 
+<br>
+
+**DARE UK**  
+Data and Analytical Research Environment UK - a programme that aims to establish a safe and collaborative network of Trusted Research Environments (TREs) where approved researchers can efficiently access and analyse sensitive data to advance research for public benefit. 
+
 <br>  
 
 **Digital Buddies**  
@@ -82,6 +87,11 @@ A research study aimed at developing new, easy-to-use artificial intelligence to
 <br>  
 
 ## E
+
+**EBHC**
+Evidence Based Healthcare
+
+<br>
 
 **EHR**  
 Electronic Health Record  
