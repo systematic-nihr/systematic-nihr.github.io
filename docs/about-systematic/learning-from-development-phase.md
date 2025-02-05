@@ -3,7 +3,7 @@ hide:
 - toc
 ---
 
-# Key learnings from the development phase
+# Key learning from the development phase
 
 Our development work with people who have lived experience of MLTCs together with care professionals, system managers, scientists, engineers and designers resulted in some key learnings which inform our approach and focus going into phase two.  
 
