@@ -8,10 +8,7 @@ tags:
 
 # MLTC learning system framework 
 
-An equity learning system fosters continuous improvement and innovation through learning, with patients and the public being active participants in all elements. The page documents explorations and iterations of the SysteMatic MLTC learning system framework throughout the development phase. 
-
-
-<br>
+An equity learning system fosters continuous improvement and innovation through learning, with patients and the public being active participants in all elements. The page documents explorations and iterations of the SysteMatic MLTC learning system framework throughout the development phase.  
 
 ## 1. MLTC learning system triple flywheel
 
