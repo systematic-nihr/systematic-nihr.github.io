@@ -88,7 +88,7 @@ A research study aimed at developing new, easy-to-use artificial intelligence to
 
 ## E
 
-**EBHC**
+**EBHC**  
 Evidence Based Healthcare
 
 <br>
