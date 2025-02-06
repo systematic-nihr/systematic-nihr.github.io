@@ -37,7 +37,7 @@ Figure 1 shows the proposal for SysteMatic resulting from the development phase.
 To operationalise SysteMatic, and build a better healthcare system for people with multiple long-term conditions, collaboration with industry, local authority and voluntary sector is essential. Sandpit events were held locally in Liverpool and Glasgow to share insights from the development phase, and refine the SysteMatic proposal. This report shares findings from the Liverpool Sandpit event. 
 
 ![SysteMatic proposal](../assets/sandpit-proposal.png)
-///
+/// caption
 Figure 1. SysteMatic proposal (work in progress) - resulting from the development phase
 ///
 
