@@ -31,7 +31,7 @@ Findings from the development phase highlight the following key focuses:
 4. Locating opportunity for optimising and innovating on existing systems while actively considering when to reconstruct and transition the delivery of care.
 5. Place-based patient-centred problems - engaging and delivering healthcare using civic principles, avoiding the assumption that a solution developed for one community can be transplanted to any other.
 
-Figure 1 shows the proposal for SysteMatic resulting from the development phase. It includes three themes (Prevention, Self-Management, and Care Navigation) and 5 provocations (P1-5).  Three pillars will support the operationalisation of the eco-system: Data Science & Engineering, Rapid Evaluation Methodology, Health Citizenship & Innovation. The Equity Learning System will analyse and prioritise according to programmable equity in multiple long-term conditions’ prevention, precision and payment to address life-course inequalities and will formulate systems engineering problems and projects. 
+Figure 1 shows the proposal for SysteMatic resulting from the development phase. It includes **three themes (Prevention, Self-Management, and Care Navigation) and 5 provocations (P1-5).  Three pillars will support the operationalisation of the eco-system: Data Science & Engineering, Rapid Evaluation Methodology, Health Citizenship & Innovation**. The Equity Learning System will analyse and prioritise according to programmable equity in multiple long-term conditions’ prevention, precision and payment to address life-course inequalities and will formulate systems engineering problems and projects. 
 
 To operationalise SysteMatic, and build a better healthcare system for people with multiple long-term conditions, collaboration with industry, local authority and voluntary sector is essential. Sandpit events were held locally in Liverpool and Glasgow to share insights from the development phase, and refine the SysteMatic proposal. This report shares findings from the Liverpool Sandpit event. 
 
@@ -60,7 +60,7 @@ Attendees were provided handouts which included:
 - [Overview of SysteMatic and learnings from the development phase](../assets/Liverpool-Sandpit-Handout.pdf){target="_blank"}
 - [Prompt sheet for each provocation with relevant insights from the development phase](../assets/Liverpool-Sandpit-Provocations.pdf){target="_blank"} 
 
-Sandpit attendees:  
+### Sandpit attendees:  
 The project team at CHIL have existing relationships with individuals across the Health and Care Sector, Industry and Knowledge Sector who were all invited to attend the Sandpit event. There were representatives from the Cheshire and Merseyside ICB, Graphnet Health, Amazon Web Services, Health Innovation North West Coast and other University of Liverpool colleagues who work in the Knowledge Sector. A total of 20 external individuals attended the event alongside the Systematic project team (which includes our Public Advisors).
 
 ![sandpit](../assets/sandpit-1.png)
