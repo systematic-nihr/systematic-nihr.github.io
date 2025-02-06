@@ -2,7 +2,6 @@
 hide:
 - toc
 tags:
-- Methods & tools
 - Report
 ---
 
