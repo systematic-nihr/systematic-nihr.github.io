@@ -7,7 +7,7 @@ tags:
 
 # Liverpool sandpit report
 
-*8th November 2024*
+*8th November 2024 - Civic Health Innovation Labs*
 
 ![sandpit](../assets/sandpit-2.png)
 
