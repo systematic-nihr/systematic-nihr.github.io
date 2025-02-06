@@ -45,9 +45,9 @@ Figure 1. SysteMatic proposal (work in progress) - resulting from the developmen
 
 ### Aims of Sandpit:
 
-- convene system stakeholders and industry partners 
-- develop/refine the SysteMatic proposal 
-- build partnerships to integrate SysteMatic into the local ecosystem. 
+- Convene system stakeholders and industry partners 
+- Develop/refine the SysteMatic proposal 
+- Build partnerships to integrate SysteMatic into the local ecosystem. 
 
 ### Sandpit agenda:
 
