@@ -10,6 +10,9 @@ tags:
 
 *8th November 2024*
 
+![sandpit](../assets/sandpit-2.png)
+
+
 ## Context
 
 ### About SysteMatic 
@@ -19,7 +22,7 @@ SysteMatic brings together researchers from the Universities of Liverpool and Gl
 This work is supported by funding from the National Institute for Health Research (NIHR) Systems Engineering Innovation hubs for Multiple long-term Conditions (SEISMIC) scheme. The project is currently in its 18-month development phase, spanning from July 2023 to December 2024. In January 2025, we will submit an application for a full-scale programme, which will be funded between £3-6 million over five years.  
 
 ### Findings from the development phase; Introducing themes, provocations & pillars for SysteMatic
-The development phase brought together those with lived experience of MLTCs, health/care professionals, scientists, engineers, social scientists, artists and designers to identify, prioritise and co-design a programme of work focused on key challenges to health and care systems. The protocol was published in the Journal of Multimorbidity and Comorbidity - ‘Developing SysteMatic: Prevention, precision and equity by design for people living with multiple long-term conditions’ (DOI: 10.1177/26335565241272682).
+The [development phase](../about-systematic/development-stage.md) brought together those with lived experience of MLTCs, health/care professionals, scientists, engineers, social scientists, artists and designers to identify, prioritise and co-design a programme of work focused on key challenges to health and care systems. The protocol was published in the Journal of Multimorbidity and Comorbidity - [‘Developing SysteMatic: Prevention, precision and equity by design for people living with multiple long-term conditions’](https://journals.sagepub.com/doi/10.1177/26335565241272682).
 
 Findings from the development phase highlight the following key focuses:
 
@@ -54,11 +57,14 @@ Figure 1. SysteMatic proposal (work in progress) - resulting from the developmen
 - SysteMatic action plan
 
 Attendees were provided handouts which included: 
-- [Overview of SysteMatic and learnings from the development phase]() 
-- [Prompt sheet for each provocation with relevant insights from the development phase]() 
+
+- [Overview of SysteMatic and learnings from the development phase](Liverpool-Sandpit-Handout.pdf) 
+- [Prompt sheet for each provocation with relevant insights from the development phase](Liverpool-Sandpit-Provocations.pdf) 
 
 Sandpit attendees:  
 The project team at CHIL have existing relationships with individuals across the Health and Care Sector, Industry and Knowledge Sector who were all invited to attend the Sandpit event. There were representatives from the Cheshire and Merseyside ICB, Graphnet Health, Amazon Web Services, Health Innovation North West Coast and other University of Liverpool colleagues who work in the Knowledge Sector. A total of 20 external individuals attended the event alongside the Systematic project team (which includes our Public Advisors).
+
+![sandpit](../assets/sandpit-1.png)
 
 ## Aligning SysteMatic with partner goals and system priorities 
 
@@ -85,7 +91,9 @@ They remarked on the value of the systems approach (optimise, innovate, transiti
 
 ### P1 - Prevent medicines harm
 
-#### [Findings from the development phase]()
+#### [Findings from the development phase](Liverpool-Sandpit-Provocations.pdf)
+
+![p1](../assets/p1.PNG)
 
 #### Insight from the sandpit
 
@@ -101,7 +109,9 @@ Equity was also a key consideration, with participants stressing the importance 
 
 ### P2 - Preventing loss of healthy life
 
-#### [Findings from the development phase]()
+#### [Findings from the development phase](Liverpool-Sandpit-Provocations.pdf)
+
+![p2](../assets/p2.PNG)
 
 #### Insight from the sandpit
 
@@ -127,7 +137,9 @@ The group also discussed how the most effective prevention often begins in child
 
 ### P3 - Living with combined physical and mental health conditions
 
-#### [Findings from the development phase]()
+#### [Findings from the development phase](Liverpool-Sandpit-Provocations.pdf)
+
+![p3](../assets/p3.PNG)
 
 #### Insight from the sandpit
 
@@ -142,7 +154,9 @@ Participants also highlighted the importance of predictive tools that leverage r
 
 ### P4 - Digitally assisted case management 
 
-#### [Findings from the development phase]()
+#### [Findings from the development phase](Liverpool-Sandpit-Provocations.pdf)
+
+![p4](../assets/p4.PNG)
 
 #### Insight from the sandpit
 
@@ -159,7 +173,9 @@ Participants emphasised the need for scalable, evidence-based solutions that cou
 
 ### P5 - Collaborative care networks 
 
-#### [Findings from the development phase]()
+#### [Findings from the development phase](Liverpool-Sandpit-Provocations.pdf)
+
+![p5](../assets/p5.PNG)
 
 #### Insight from the sandpit  
 
@@ -171,6 +187,8 @@ Attendees recognised the critical need for better-connected care systems to addr
 - Developing networks that centre on patients’ holistic needs (rather than just disease), ensuring care is equitable and person-focused.
 
 Participants emphasised that building collaborative networks requires both technological innovation and cultural shifts within healthcare systems to prioritise integration and equity.
+
+![sandpit](../assets/sandpit-3.png)
 
 ## SysteMatic 3 pillars; Fostering innovative sustainable partnerships 
 
