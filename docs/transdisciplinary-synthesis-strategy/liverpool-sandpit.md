@@ -58,8 +58,8 @@ Figure 1. SysteMatic proposal (work in progress) - resulting from the developmen
 
 Attendees were provided handouts which included: 
 
-- [Overview of SysteMatic and learnings from the development phase](Liverpool-Sandpit-Handout.pdf) 
-- [Prompt sheet for each provocation with relevant insights from the development phase](Liverpool-Sandpit-Provocations.pdf) 
+- [Overview of SysteMatic and learnings from the development phase](../assets/Liverpool-Sandpit-Handout.pdf){target="_blank"}
+- [Prompt sheet for each provocation with relevant insights from the development phase](../assets/Liverpool-Sandpit-Provocations.pdf){target="_blank"} 
 
 Sandpit attendees:  
 The project team at CHIL have existing relationships with individuals across the Health and Care Sector, Industry and Knowledge Sector who were all invited to attend the Sandpit event. There were representatives from the Cheshire and Merseyside ICB, Graphnet Health, Amazon Web Services, Health Innovation North West Coast and other University of Liverpool colleagues who work in the Knowledge Sector. A total of 20 external individuals attended the event alongside the Systematic project team (which includes our Public Advisors).
@@ -91,7 +91,7 @@ They remarked on the value of the systems approach (optimise, innovate, transiti
 
 ### P1 - Prevent medicines harm
 
-#### [Findings from the development phase](Liverpool-Sandpit-Provocations.pdf)
+#### Findings from the development phase
 
 ![p1](../assets/p1.PNG)
 
@@ -109,7 +109,7 @@ Equity was also a key consideration, with participants stressing the importance 
 
 ### P2 - Preventing loss of healthy life
 
-#### [Findings from the development phase](Liverpool-Sandpit-Provocations.pdf)
+#### Findings from the development phase
 
 ![p2](../assets/p2.PNG)
 
@@ -137,7 +137,7 @@ The group also discussed how the most effective prevention often begins in child
 
 ### P3 - Living with combined physical and mental health conditions
 
-#### [Findings from the development phase](Liverpool-Sandpit-Provocations.pdf)
+#### Findings from the development phase
 
 ![p3](../assets/p3.PNG)
 
@@ -154,7 +154,7 @@ Participants also highlighted the importance of predictive tools that leverage r
 
 ### P4 - Digitally assisted case management 
 
-#### [Findings from the development phase](Liverpool-Sandpit-Provocations.pdf)
+#### Findings from the development phase
 
 ![p4](../assets/p4.PNG)
 
@@ -173,7 +173,7 @@ Participants emphasised the need for scalable, evidence-based solutions that cou
 
 ### P5 - Collaborative care networks 
 
-#### [Findings from the development phase](Liverpool-Sandpit-Provocations.pdf)
+#### Findings from the development phase
 
 ![p5](../assets/p5.PNG)
 
