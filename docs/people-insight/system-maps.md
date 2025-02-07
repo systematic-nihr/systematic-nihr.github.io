@@ -21,6 +21,14 @@ System map used during Liverpool Stage 2 workshop.
 
 In the industrial design discourse, Richard Buchanan’s concept of four orders of design[^1] is widely accepted; any outcome of the design process can be situated in these orders and the are highly related to each other. Any designed entity, a product, a visual or a service, is part of a larger system. In a world where many technologies are connected to each other, the level of complexity of these systems increases.[^2] Mapping these systems is crucial to improve services or products associated with the system. More important the map can guide the stakeholders to identifying meaningful intervention points. 
 
+**Public advisor, Terry, shares his perspective on the System maps below:**
+
+<div>
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe src="https://www.youtube.com/embed/WwrMzT8jDCQ" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+  </div>
+</div>
+
 ## Application & use
 
 The development process of the system map began from two different points, one reference was Meadow’s leverage points to intervene a system[^3], the other point was based on actor maps about health systems. 
