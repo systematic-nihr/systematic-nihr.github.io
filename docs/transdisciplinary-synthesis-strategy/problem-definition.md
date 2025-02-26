@@ -1,4 +1,6 @@
 ---
+hide:
+- toc
 tags:
 - Stage 2
 - Models, frameworks & strategies
