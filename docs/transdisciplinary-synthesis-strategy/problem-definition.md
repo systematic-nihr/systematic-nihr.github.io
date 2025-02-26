@@ -8,9 +8,22 @@ tags:
 # Problem co-definition map
 
 ![definition mapping](../assets/definition-venn.jpg)
+/// caption
+Visual mapping of problems in Miro.
+///
 
 ## Overview
 Numerous interrelated problems in MLTC systems were identified through qualitative and quantitative research in [stage 1](../about-systematic/development-stage.md) and the [stage 2 workshop](../about-systematic/development-stage.md#stage-2). These were synthesised through an iterative visual mapping process, which led to the development of a living interactive map created using kumu.io. The map sorts problems into three broad categories (people & place, system design, MLTC needs), and maps the connections between them. This map is designed to evolve over time, allowing for the addition or modification of problems and their relationships as new insights emerge or the system changes.
+
+<div>
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe src="https://embed.kumu.io/e6e69a73592d0feb814544af0a523e68" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+  </div>
+</div>
+
+/// caption
+Kumu interactive map.
+///
 
 ## Application & use 
 Key applications of the interactive map include:
@@ -30,8 +43,4 @@ The problem co-definition process has yielded insights into the structural, soci
 As the interactive map continues to evolve, it will remain a vital resource for understanding and addressing the complexities of MLTC systems, ensuring that problem definitions remain responsive to real-world changes and lived experiences.
 
 
-<div>
-  <div style="position:relative;padding-top:56.25%;">
-    <iframe src="https://embed.kumu.io/e6e69a73592d0feb814544af0a523e68" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-  </div>
-</div>
+
