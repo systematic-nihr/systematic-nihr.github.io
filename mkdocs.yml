@@ -27,7 +27,6 @@ nav:
       - Principles for person mapping: 'people-insight/principles-person-maps.md'
       - MLTC personas/person mapping: 'people-insight/person-maps.md'
       - Persona set: 'people-insight/persona-set.md'
-      - Animation: 'people-insight/animation.md'
     - Journey mapping:
       - MLTC journey mapping: 'people-insight/journey-maps.md'
     - Systems mapping: 
@@ -35,6 +34,7 @@ nav:
       - MLTC systems actor map: 'people-insight/actor-map.md'
     - Metaphors & images: 
       - Metaphors of MLTC lived experience: 'people-insight/metaphors.md'
+      - Animation: 'people-insight/animation.md'
   - Systems Science: 
     - 'systems-science/index.md'
     - 3 orders of MLTC systems science: 'systems-science/orders.md'
