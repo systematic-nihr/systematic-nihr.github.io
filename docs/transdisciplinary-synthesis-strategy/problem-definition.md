@@ -13,7 +13,10 @@ Visual mapping of problems in Miro.
 ///
 
 ## Overview
-Numerous interrelated problems in MLTC systems were identified through qualitative and quantitative research in [stage 1](../about-systematic/development-stage.md) and the [stage 2 workshop](../about-systematic/development-stage.md#stage-2). These were synthesised through an iterative visual mapping process, which led to the development of a living interactive map created using kumu.io. The map sorts problems into three broad categories (people & place, system design, MLTC needs), and maps the connections between them. This map is designed to evolve over time, allowing for the addition or modification of problems and their relationships as new insights emerge or the system changes.
+Numerous interrelated problems in MLTC systems were identified through qualitative and quantitative research in [stage 1](../about-systematic/development-stage.md) and the [stage 2 workshop](../about-systematic/development-stage.md#stage-2). These were synthesised through an iterative visual mapping process, which led to the development of a living interactive map created using kumu.io. The map sorts problems into three broad categories (people & place, system design, MLTC needs), and maps the connections between them. This map is designed to evolve over time, allowing for the addition or modification of problems and their relationships as new insights emerge or the system changes.  
+
+
+**Kumu interactive map:**
 
 <div>
   <div style="position:relative;padding-top:56.25%;">
@@ -21,9 +24,6 @@ Numerous interrelated problems in MLTC systems were identified through qualitati
   </div>
 </div>
 
-/// caption
-Kumu interactive map.
-///
 
 ## Application & use 
 Key applications of the interactive map include:
