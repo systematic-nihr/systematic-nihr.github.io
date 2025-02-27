@@ -24,9 +24,6 @@ The canvas can be used for:
 - Progressing a stream of parallel and prioritised briefs (multiple problems tackling)
 - Targeting multiple system building blocks in each brief (linked problems and building blocks tackling)
 
-**Read more about the prioritisation framework here:**  
-:material-download: [Co-identifying and co-prioritising key challenges in MLTC systems - Liverpool - Stage 2 Report](){target="_blank"}
-
 ## References
 
 [^1]:
