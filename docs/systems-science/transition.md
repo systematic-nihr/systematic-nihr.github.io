@@ -25,9 +25,9 @@ The overarching tenets of 3rd-order approaches are:
  * Inter- and transdisciplinary expertise
  * Theories of systems drawing from formal sciences, biology, social- and cognitive sciences
  * Taking a systems approach, inheriting from the above
- * a system is inherently open (rather than closed) with porous boundaries
- * the system exhibits non-linear or unpredictable behaviours (that are difficult to model using methods common to 1st- and 2nd-order approaches) and are context-dependent (Preiser 2019)
- * systems are epistemological (rather than ontological) entities (Reynolds et al. 2016) consistent with soft-systems methodology (Checkland 2000). 3rd-Order approaches view any ‘system’ as one possible model of components and their relationships/dependencies that inextricably depend on the perspective of the agent articulating that model.
+ * A system is inherently open (rather than closed) with porous boundaries
+ * The system exhibits non-linear or unpredictable behaviours (that are difficult to model using methods common to 1st- and 2nd-order approaches) and are context-dependent (Preiser 2019)
+ * Systems are epistemological (rather than ontological) entities (Reynolds et al. 2016) consistent with soft-systems methodology (Checkland 2000). 3rd-Order approaches view any ‘system’ as one possible model of components and their relationships/dependencies that inextricably depend on the perspective of the agent articulating that model.
  * A system model will therefore vary with the level of abstraction adopted, the individual modeller and the appropriate methodologies and tools will vary accordingly.
  
 Consequently, a 3rd-order approach naturally invites methodology/frameworks such as participatory design, patient-public co-design, soft-systems methdology (SSM) (Augustsson, Churruca, and Braithwaite 2019) and action research (Checkland 2012; Koshy, Koshy, and Waterman 2010; Meyer 2000) but importantly, does not exclude formal methods (Schwaninger and Grösser 2008) e.g. agent-based modelling and system dynamics (Liu et al. 2018). The emphasis on complexity as a function of unpredictable actors (people/professionals) and uncertainty that is difficult to capture using more familiar formal methods (as in 1st- and 2nd-order systems) but invite ...? Farnaz: If I’ve understood our discussion correctly : 3rd order is where design practice/theory would link in – could you furnish some text/citations and elaborate ?.
