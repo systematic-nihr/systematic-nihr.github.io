@@ -35,12 +35,9 @@ Consequently, a 3rd-order approach naturally invites methodology/frameworks such
 
  * Sensemaking & visualising complexity: Design synthesis attempts to interpret and make meaning out of multiple interconnected/conflicting sources of qualitative and quantitative data, and to make it explicit through various forms of externalisation, modelling and visualisation.
  * Generate & test alternative futures: Transitioning systems requires envisioning futures that are not simply extrapolations of the present (Dunne & Raby, 2013). Methods such as critical design, speculative design, and [transition design](https://transitiondesignseminarcmu.net/the-transition-design-framework/) (Irwin, 2015) facilitate engagement with radical alternatives.
- * Non-linear, iterative/adaptive, co- evolutionary processes : Given the inherent unpredictability of complex systems, design-based approaches emphasise iterative processes including prototyping, adaptive learning, embedding feedback mechanisms.  
-
-
-[Systems Shifting Design Report from Design Council](https://www.designcouncil.org.uk/our-resources/archive/reports-resources/download-our-systems-shifting-design-report-1/) 
-- distinguishes ‘system-conscious design’ i.e. design as practiced with an awareness of the wider system context and perception of interdependence, and ‘system-shifting design’ i.e. design with the specific objective of changing a system - a practice that is expansive and transcends rather than simply merges design with systems thinking (this is 3rd order).
-- being aware that no static ‘solution’ is possible to a living evolving web of interconnected problems - multiple points of intervention that collectively steer the system in the desired direction
+ * Non-linear, iterative/adaptive, co-evolutionary processes : Given the inherent unpredictability of complex systems, design-based approaches emphasise iterative processes including prototyping, adaptive learning, embedding feedback mechanisms [Systems Shifting Design Report from Design Council](https://www.designcouncil.org.uk/our-resources/archive/reports-resources/download-our-systems-shifting-design-report-1/)
+ * Distinguishes 'system-conscious design' i.e. design as practiced with an awareness of the wider system context and perception of interdependence, and ‘system-shifting design’ i.e. design with the specific objective of changing a system - a practice that is expansive and transcends rather than simply merges design with systems thinking
+ * Being aware that no static 'solution' is possible to a living evolving web of interconnected problems - multiple points of intervention that collectively steer the system in the desired direction
 
  
 ## Examples
@@ -55,6 +52,7 @@ Checkland (2000) surveys a large body of work on SSM using social and health car
  * Costa Junior, Jairo da, Jan Carel Diehl, and Dirk Snelders. (2019) A Framework for a Systems Design Approach to Complex Societal Problems. Design Science, 5. [https://doi.org/10.1017/dsj.2018.16](https://doi.org/10.1017/dsj.2018.16)
  * Cabrera, D., *et al* (2015). A Unifying Theory of Systems Thinking with Psychosocial Applications. Systems Research and Behavioral Science, 32(5), 534–545. [https://doi.org/10.1002/sres.2351](https://doi.org/10.1002/sres.2351)
  * Checkland, P. (2012). Four Conditions for Serious Systems Thinking and Action. Systems Research and Behavioral Science, 29(5), 465–469. [https://doi.org/10.1002/sres.2158](https://doi.org/10.1002/sres.2158)
+ * Checkland, P. (2000). Soft systems methodology: A thirty year retrospective: Soft Systems Methodology. Systems Research and Behavioral Science, 17(S1), S11–S58. [https://doi.org/10.1002/1099-1743(200011)17:1+<::AID-SRES374>3.0.CO;2-O](https://doi.org/10.1002/1099-1743(200011)17:1+<::AID-SRES374>3.0.CO;2-O)
  * Preiser, R. (2019). Identifying general trends and patterns in complex systems research: An overview of theoretical and practical implications. Systems Research and Behavioral Science, 36(5), 706–714. [https://doi.org/10.1002/sres.2619](https://doi.org/10.1002/sres.2619)
  * Reynolds, Martin, Emily Gates, Richard Hummelbrunner, Mita Marra, and Bob Williams. (2016) Towards Systemic Evaluation. Systems Research and Behavioral Science 33 (5): 662–73. [https://onlinelibrary.wiley.com/doi/10.1002/sres.2423](https://onlinelibrary.wiley.com/doi/10.1002/sres.2423)
  * Augustsson, Hanna, Kate Churruca, and Jeffrey Braithwaite. (2019) Re-Energising the Way We Manage Change in Healthcare: The Case for Soft Systems Methodology and Its Application to Evidence-Based Practice. BMC Health Services Research 19 (1): 1–11. [https://doi.org/10.1186/s12913-019-4508-0](https://doi.org/10.1186/s12913-019-4508-0)
