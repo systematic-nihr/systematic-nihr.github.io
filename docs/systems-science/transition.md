@@ -41,23 +41,25 @@ Consequently, a 3rd-order approach naturally invites methodology/frameworks such
 
  
 ## Examples
-A helpful summary of the field of general systems theory can be found in ().  This paper articulates important historical connections between different scientific approaches to systems (e.g. 
-
+A helpful summary of the field of general systems theory can be found in (Checkland, 2000) -- this paper articulates important historical connections between different scientific approaches to systems.
 We located three papers that survey the sometimes perplexing array of methods, theories and approaches in the field of systems science and thinking -- both of which help provide context and history relevant to undertanding the field (Cabrera, 2015; Checkland, 2012; Preiser, 2019). 
-
 Checkland (2000) surveys a large body of work on SSM using social and health care as examples.
 
-
 # References and Further Reading
- * Costa Junior, Jairo da, Jan Carel Diehl, and Dirk Snelders. (2019) A Framework for a Systems Design Approach to Complex Societal Problems. Design Science, 5. [https://doi.org/10.1017/dsj.2018.16](https://doi.org/10.1017/dsj.2018.16)
+ * Augustsson, Hanna, Kate Churruca, and Jeffrey Braithwaite. (2019) Re-Energising the Way We Manage Change in Healthcare: The Case for Soft Systems Methodology and Its Application to Evidence-Based Practice. BMC Health Services Research 19 (1): 1–11. [https://doi.org/10.1186/s12913-019-4508-0](https://doi.org/10.1186/s12913-019-4508-0)
  * Cabrera, D., *et al* (2015). A Unifying Theory of Systems Thinking with Psychosocial Applications. Systems Research and Behavioral Science, 32(5), 534–545. [https://doi.org/10.1002/sres.2351](https://doi.org/10.1002/sres.2351)
  * Checkland, P. (2012). Four Conditions for Serious Systems Thinking and Action. Systems Research and Behavioral Science, 29(5), 465–469. [https://doi.org/10.1002/sres.2158](https://doi.org/10.1002/sres.2158)
  * Checkland, P. (2000). Soft systems methodology: A thirty year retrospective: Soft Systems Methodology. Systems Research and Behavioral Science, 17(S1), S11–S58. [https://doi.org/10.1002/1099-1743(200011)17:1+<::AID-SRES374>3.0.CO;2-O](https://doi.org/10.1002/1099-1743(200011)17:1+<::AID-SRES374>3.0.CO;2-O)
+ * Costa Junior, Jairo da, Jan Carel Diehl, and Dirk Snelders. (2019) A Framework for a Systems Design Approach to Complex Societal Problems. Design Science, 5. [https://doi.org/10.1017/dsj.2018.16](https://doi.org/10.1017/dsj.2018.16)
+ * Dunne, A., & Raby, F. (2013). Speculative Everything: Design, Fiction, and Social Dreaming. MIT Press.
+ * Hieronymi, A. (2013). Understanding Systems Science: A Visual and Integrative Approach. Systems Research and Behavioral Science, 30(5), 580–595. [https://doi.org/10.1002/sres.2215](https://doi.org/10.1002/sres.2215)
+ * Irwin, T. (2015). Transition Design: A Proposal for Advancing Design as a Transformational Discipline. Design Philosophy Papers, 13(1), 57-66. [https://doi.org/10.1080/17547075.2015.1051829](https://doi.org/10.1080/17547075.2015.1051829)
+ * Liu, S., Xue, H., Li, Y., Xu, J., & Wang, Y. (2018). Investigating the Diffusion of Agent‐based Modelling and System Dynamics Modelling in Population Health and Healthcare Research. Systems Research and Behavioral Science, 35(2), 203–215. https://doi.org/10.1002/sres.2460
  * Preiser, R. (2019). Identifying general trends and patterns in complex systems research: An overview of theoretical and practical implications. Systems Research and Behavioral Science, 36(5), 706–714. [https://doi.org/10.1002/sres.2619](https://doi.org/10.1002/sres.2619)
  * Reynolds, Martin, Emily Gates, Richard Hummelbrunner, Mita Marra, and Bob Williams. (2016) Towards Systemic Evaluation. Systems Research and Behavioral Science 33 (5): 662–73. [https://onlinelibrary.wiley.com/doi/10.1002/sres.2423](https://onlinelibrary.wiley.com/doi/10.1002/sres.2423)
- * Augustsson, Hanna, Kate Churruca, and Jeffrey Braithwaite. (2019) Re-Energising the Way We Manage Change in Healthcare: The Case for Soft Systems Methodology and Its Application to Evidence-Based Practice. BMC Health Services Research 19 (1): 1–11. [https://doi.org/10.1186/s12913-019-4508-0](https://doi.org/10.1186/s12913-019-4508-0)
- * Dunne, A., & Raby, F. (2013). Speculative Everything: Design, Fiction, and Social Dreaming. MIT Press.
- * Irwin, T. (2015). Transition Design: A Proposal for Advancing Design as a Transformational Discipline. Design Philosophy Papers, 13(1), 57-66. [https://doi.org/10.1080/17547075.2015.1051829](https://doi.org/10.1080/17547075.2015.1051829)
+ * Schwaninger, M., & Grösser, S. (2008). System dynamics as model‐based theory building. Systems Research and Behavioral Science, 25(4), 447–465. https://doi.org/10.1002/sres.914
+
+ 
 
 
 
