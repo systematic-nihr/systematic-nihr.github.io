@@ -56,9 +56,8 @@ Checkland (2000) surveys a large body of work on SSM using social and health car
  * Preiser, R. (2019). Identifying general trends and patterns in complex systems research: An overview of theoretical and practical implications. Systems Research and Behavioral Science, 36(5), 706–714. [https://doi.org/10.1002/sres.2619](https://doi.org/10.1002/sres.2619)
  * Reynolds, Martin, Emily Gates, Richard Hummelbrunner, Mita Marra, and Bob Williams. (2016) Towards Systemic Evaluation. Systems Research and Behavioral Science 33 (5): 662–73. [https://onlinelibrary.wiley.com/doi/10.1002/sres.2423](https://onlinelibrary.wiley.com/doi/10.1002/sres.2423)
  * Augustsson, Hanna, Kate Churruca, and Jeffrey Braithwaite. (2019) Re-Energising the Way We Manage Change in Healthcare: The Case for Soft Systems Methodology and Its Application to Evidence-Based Practice. BMC Health Services Research 19 (1): 1–11. [https://doi.org/10.1186/s12913-019-4508-0](https://doi.org/10.1186/s12913-019-4508-0)
-
-Dunne, A., & Raby, F. (2013). Speculative Everything: Design, Fiction, and Social Dreaming. MIT Press.
-Irwin, T. (2015). Transition Design: A Proposal for Advancing Design as a Transformational Discipline. Design Philosophy Papers, 13(1), 57-66.
+ * Dunne, A., & Raby, F. (2013). Speculative Everything: Design, Fiction, and Social Dreaming. MIT Press.
+ * Irwin, T. (2015). Transition Design: A Proposal for Advancing Design as a Transformational Discipline. Design Philosophy Papers, 13(1), 57-66. [https://doi.org/10.1080/17547075.2015.1051829](https://doi.org/10.1080/17547075.2015.1051829)
 
 
 
