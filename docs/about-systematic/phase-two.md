@@ -5,7 +5,28 @@ hide:
 
 # SysteMatic Phase Two
 The content of this digital commons documents processes and outputs from Phase One, a UKRI SEISMIC development bid awarded to the Universities of Glasgow and Liverpool in 2023.  
+
 This branch of the digital commons lays out our plans for Phase Two, which is currently under consideration for funding.
+
+## Project Organisation, Work Streams and Driver Projects
+![1](../assets/systematic-diagram.png)
+
+Our proposal for the full, 50-months SysteMatic systems engineering hub is composed of three work streams:
+  1. Health Citizenship and Innovation
+  2. Data and AI Connected Care
+  3. Rapid Evaluation and Systems Learning
+
+... that serve and support five "driver projects" organised around needs, priorities and applications identified in Phase One, namely:
+
+  1. Preventing Medication Harms
+  2. Preventing Crisis
+  3. Living with Mental and Physical Illnesses
+  4. Technologies for Clinicians Integrating Care
+  5. Technologies for Patients Using Care Networks
+
+
+
+
 
 ## Project timeline 
 
