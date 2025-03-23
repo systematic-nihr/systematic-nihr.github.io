@@ -12,21 +12,17 @@ This branch of the digital commons lays out our plans for Phase Two, which is cu
 ![1](../assets/systematic-diagram.png)
 
 Our proposal for the full, 50-months SysteMatic systems engineering hub is composed of three work streams:
-  1. Health Citizenship and Innovation
-  2. Data and AI Connected Care
-  3. Rapid Evaluation and Systems Learning
+  1. [Health Citizenship and Innovation](WS1.md)
+  2. [Data and AI Connected Care](WS2.md)
+  3. [Rapid Evaluation and Systems Learning](WS3.md)
 
 ... that serve and support five "driver projects" organised around needs, priorities and applications identified in Phase One, namely:
 
-  1. Preventing Medication Harms
+  1. [Preventing Medication Harms](P1.md)
   2. Preventing Crisis
   3. Living with Mental and Physical Illnesses
   4. Technologies for Clinicians Integrating Care
   5. Technologies for Patients Using Care Networks
-
-
-
-
 
 ## Project timeline 
 
