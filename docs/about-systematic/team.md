@@ -8,7 +8,7 @@ tags:
 ---
 
 ## SysteMatic Core Team
-Reviewers requested detail about community psychiatry representation: our core team includes two community-facing psychiatrists and the co-directors of the NIHR [Mental Health Research for Innovation Centre](https://www.mric.uk) who also have leadership positions in the [NHS partner mental health trust] (https://www.merseycare.nhs.uk). 
+Reviewers requested detail about community psychiatry representation: our core team includes two community-facing psychiatrists and the co-directors of the NIHR [Mental Health Research for Innovation Centre](https://www.mric.uk) who also have leadership positions in the [NHS partner mental health trust](https://www.merseycare.nhs.uk). 
 
 ## Developing and Training Early Career Researchers (ECRs)
 From Stage 1 we have enabled ECRs to pursue MLTC research (e.g. Driver project P4 is led by a clinical academic nurse with a new grant in MLTC data science from Stage 1 work), and in Stage 2 we will provide support for ECRs to take the lead on academic publications and be involved as co-investigators on subsequent grant applications through mentorship and buddying with experienced team members. We have budgeted for ECRs to travel and meet as a community, developing careers around MLTC challenges and have a track record of world leading [capacity building in MLTC research](https://www.gla.ac.uk/postgraduate/doctoraltraining/multimorbidity). 
