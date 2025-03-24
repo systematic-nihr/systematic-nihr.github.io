@@ -27,6 +27,8 @@ Our proposal for the full, 50-months SysteMatic systems engineering hub is compo
   4. Technologies for Clinicians Integrating Care
   5. Technologies for Patients Using Care Networks
 
+Finally, we address our strategy for [capability, capacity, training and team composition](team.md).
+
 ## Project timeline 
 
 <div>
