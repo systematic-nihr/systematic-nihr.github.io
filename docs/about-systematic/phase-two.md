@@ -8,7 +8,10 @@ The content of this digital commons documents processes and outputs from Phase O
 
 This branch of the digital commons lays out our plans for Phase Two, which is currently under consideration for funding.
 
-## Project Organisation, Work Streams and Driver Projects
+## Additional Detail
+In the following sections, we provide additional detail on various aspects of the Hub's design, methods and evaluation methods (in response to reviewer's comments) -- these should be read in the context of the full research plan document.
+
+### Project Organisation, Work Streams and Driver Projects
 ![1](../assets/systematic-diagram.png)
 
 Our proposal for the full, 50-months SysteMatic systems engineering hub is composed of three work streams:
