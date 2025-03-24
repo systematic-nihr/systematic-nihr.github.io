@@ -7,8 +7,7 @@ tags:
 - Data
 - AI
 - Data science
-- 
-- Harm Reduction
+- Natural Language Processing and Understanding
 ---
 
 # WS2 Data and AI Connected Care
