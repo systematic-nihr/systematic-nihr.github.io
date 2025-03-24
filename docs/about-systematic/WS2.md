@@ -29,6 +29,7 @@ Our engineering approach adopts co-design principles to ensure solutions are act
 
   1. at the individual patient level, each ambient parameter is carefully contextualised with relevant physiological and behavioural information to establish meaningful relationships;
   2. at the population level, structured feature engineering enables discovery of clinically actionable patterns. Furthermore, our approach stands out through the targeted integration of specific sensing modalities with clinical records, addressing gaps in MLTC prognosis and diagnosis by better characterising confounding variables using denser recordings and contextual data [1](#refs). While ambient home-based sensing is already being explored, our innovation lies in the systematic integration of these data streams (more detail below). To our knowledge, no existing work comprehensively bridges the gap between intermittent clinical observations and continuous home-based monitoring in a way that offers:
+
     * Enhanced Clinical Prediction and Decision-Support
     * Personalised Support for Self-management
     * Context-Aware Recommendations
