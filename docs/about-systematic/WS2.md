@@ -28,7 +28,7 @@ longitudinal and combinatorial nature of MLTCs. Innovations should complete the 
 Our engineering approach adopts co-design principles to ensure solutions are actionable, sustainable, and equitable. We specifically target critical gaps between clinical diagnosis and patient self-management, integrating contextual physical and psychological dimensions. We acknowledge the concern over potential 'parameter soup' in ambient sensing applications; however, our team employs a methodologically rigorous hierarchical integration approach where: 
 
   1. at the individual patient level, each ambient parameter is carefully contextualised with relevant physiological and behavioural information to establish meaningful relationships;
-  2. at the population level, structured feature engineering enables discovery of clinically actionable patterns. Furthermore, our approach stands out through the targeted integration of specific sensing modalities with clinical records, addressing gaps in MLTC prognosis and diagnosis by better characterising confounding variables using denser recordings and contextual data [2]. While ambient home-based sensing is already being explored, our innovation lies in the systematic integration of these data streams (more detail below). To our knowledge, no existing work comprehensively bridges the gap between intermittent clinical observations and continuous home-based monitoring in a way that offers:
+  2. at the population level, structured feature engineering enables discovery of clinically actionable patterns. Furthermore, our approach stands out through the targeted integration of specific sensing modalities with clinical records, addressing gaps in MLTC prognosis and diagnosis by better characterising confounding variables using denser recordings and contextual data [1](#refs). While ambient home-based sensing is already being explored, our innovation lies in the systematic integration of these data streams (more detail below). To our knowledge, no existing work comprehensively bridges the gap between intermittent clinical observations and continuous home-based monitoring in a way that offers:
 
     * Enhanced Clinical Prediction and Decision-Support
     * Personalised Support for Self-management
@@ -45,13 +45,16 @@ This technical integration recognises the bidirectional relationship between men
   * Biopsychosocial Integration Engine: Our systems engineering approach correlates physiological indicators (heart rate variability, sleep disruption) with psychological state markers (voice sentiment, linguistic content) and behavioural patterns
   * Adaptive Intervention Triggering: The patient digital twin integrates these multidimensional inputs to guide better interventions
 
+## Multi-source Data Fusion
+Fusing data from multiple sources is an active research challenge for healthcare, especially MLTC care [3]. We will focus on fusion at the feature and decision levels rather than the data level - i.e. mid-/late-stage not early-stage fusion [4]. Feature-level techniques involving matrix- and tensor-decomposition methods are well-studied candidates [5-7], requiring a common representation and sharing computational principles with deep-learning, especially representation learning such as encoder-decoder models. More recently, flexible transformer-based models [8] and graph neural networks [9] have shown promise but remain untested for multi-scale and temporally/spatially complex data that are common in MLTCs. We anticipate maintaining separation of sources at the data and feature levels, and using “source” or “modality” expert approaches – e.g. one group of experts on temporally-coarse clinical data, another on high-temporal-resolution wearable data. We will then bring experts together in a ‘mixture-of-experts’ approach using ensemble and meta-learning (e.g. fusion at the decision-level) and weighted voting or expert-output averaging. This approach is easier to interrogate than those that fuse data earlier. It offers clear relative contributions and uncertainty quantification of different sources. In addition, it de-risks model development. Individual experts can be validated and may have value in their home source even if a late-fusion / mixture-of-experts approach fails to be useful. We offer further methodological detail in our digital commons [1], which also shows how we address bias beyond socio-economic status, e.g. ethnic diversity.
 
+<a id="refs"></a>
 ### References
-[2] https://osf.io/preprints/psyarxiv/jw37c_v1
-[3] https://arxiv.org/pdf/2402.19348
-[4] https://doi.org/10.1109/TBDATA.2015.2465959
-[5] https://doi.org/10.1109/JPROC.2015.2460697
-[6] https://arXiv.org/1707.07250
-[7] https://doi.org/10.1093/bib/bbab569
-[8] https://doi.org/10.1145/3649447
-[9] https://doi.org/10.1038/s41467-021-23774-w
+1. https://osf.io/preprints/psyarxiv/jw37c_v1
+2. https://arxiv.org/pdf/2402.19348
+3. https://doi.org/10.1109/TBDATA.2015.2465959
+4. https://doi.org/10.1109/JPROC.2015.2460697
+5. https://arXiv.org/1707.07250
+6. https://doi.org/10.1093/bib/bbab569
+7. https://doi.org/10.1145/3649447
+8. https://doi.org/10.1038/s41467-021-23774-w
