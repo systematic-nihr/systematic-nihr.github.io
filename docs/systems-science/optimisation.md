@@ -11,7 +11,9 @@ tags:
 - computational models
 ---
 
-# Definition
+# Optimisation 
+
+## Definition
 A 1st-Order approach treats a system as a concrete ontological entity (i.e. a collection of components and dependencies that exists “in the real world”) that can be captured by a formal model – at a single level of abstraction – that is amenable to description and analysis using research methods from the formal sciences and engineering (e.g. operations research, mathematical programming/optimisation and control theory). 1st-order approaches emphasise the regulation/control of a system’s output by feedback and error correction (as in industrial control) generally using analytically-tractable – often deterministic – and mature mathematical methods. 
 
 1st-Order approaches are suited to **optimising components** of larger healthcare systems where:
@@ -40,7 +42,7 @@ In Kheiri *et al*'s work, the space of all candidate plans is a graph and the ve
 
 A helpful systematic review of pathway modelling can be found in [Aspland *et al* (2021)](https://doi.org/10.1080/20476965.2019.1652547).
 
-# References and Further Reading
+## References and Further Reading
   * Griffiths, Jeffrey Deacon, V Knight, and Izabela Komenda. 2013. “Bed Management in a Critical Care Unit.” IMA Journal of Management Mathematics 24 (2): 137–53. [https://doi.org/10.1093/imaman/dpr028](https://doi.org/10.1093/imaman/dpr028)
   * Kheiri, A., Lewis, R., Thompson, J., & Harper, P. (2021). Constructing operating theatre schedules using partitioned graph colouring techniques. Health Systems, 10(4), 286–297. (https://doi.org/10.1080/20476965.2020.1796530)[https://doi.org/10.1080/20476965.2020.1796530]
   * Aspland, E., Gartner, D., & Harper, P. (2021). Clinical pathway modelling: A literature review. Health Systems, 10(1), 1–23. [https://doi.org/10.1080/20476965.2019.1652547](https://doi.org/10.1080/20476965.2019.1652547)
