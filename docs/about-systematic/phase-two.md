@@ -15,6 +15,7 @@ In the following sections, we provide additional detail on various aspects of th
 ![1](../assets/systematic-diagram.png)
 
 Our proposal for the full, 50-months SysteMatic systems engineering hub is composed of three work streams:
+
   1. [Health Citizenship and Innovation](WS1.md)
   2. [Data and AI Connected Care](WS2.md)
   3. [Rapid Evaluation and Systems Learning](WS3.md)
