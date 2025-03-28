@@ -23,8 +23,8 @@ Our proposal for the full, 50-months SysteMatic systems engineering hub is compo
 ... that serve and support five "driver projects" organised around needs, priorities and applications identified in Phase One, namely:
 
   1. [Preventing Medication Harms](P1.md)
-  2. [Preventing Crisis](P2.md)
-  3. Living with Mental and Physical Illnesses
+  2. Preventing Crisis
+  3. [Living with Mental and Physical Illnesses](P3.md)
   4. Technologies for Clinicians Integrating Care
   5. Technologies for Patients Using Care Networks
 
