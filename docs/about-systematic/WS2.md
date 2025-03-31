@@ -61,6 +61,11 @@ A common concern with LLM-based approaches to natural language processing and un
   * Develop **data anonymization frameworks that exploit local differential privacy**, thus enable on-device computation while preserving raw data confidentiality
   * Conduct **rigorous empirical privacy assessments** through model inversion attacks, membership inference attacks, and attribute inference attacks to quantify potential information leakage under realistic adversarial scenarios
 
+## Frameworks for regulatory-compliant healthcare AI evaluation
+Our clinical evaluation of machine learning models builds on Steyerberg and Vergouwe [9](#refs), with the validity of our prediction models assessed in fully independent data through the four key measures: 1) calibration in the large, 2) calibration slope, 3) discrimination performance established both with internal and external validation, 4) decision-curve analysis.
+
+We will apply the PROBAST-AI framework, a risk-of-bias assessment tool specifically designed for AI-based prediction models to ensure methodological rigor [10](#refs) and the DECIDE-AI framework which guides the evaluation of AI systems during early clinical implementation, focusing on iterative improvement and safety monitoring [11](#refs). Where appropriate we will apply extended guidelines incorporating additional safeguards that encompass fairness, explainability, privacy-preservation and interoperability, all of which are crucial for developing trustworthy AI prediction models in healthcare [12-15].
+
 <a id="refs"></a>
 ### References
 1. https://osf.io/preprints/psyarxiv/jw37c_v1
@@ -71,3 +76,10 @@ A common concern with LLM-based approaches to natural language processing and un
 6. https://doi.org/10.1093/bib/bbab569
 7. https://doi.org/10.1145/3649447
 8. https://doi.org/10.1038/s41467-021-23774-w
+9. https://doi.org/10.1093/eurheartj/ehu207
+10. https://doi.org/10.1136/bmjopen-2020-048008
+11. https://doi.org/10.1038/s41591-022-01772-9
+12. https://doi.org/10.48550/arXiv.2501.09628
+13. https://doi.org/10.1038/s41746-021-00549-7
+14. https://doi.org/10.1093/eurheartj/ehac238
+15. https://bmvc2024.org/proceedings/902/
