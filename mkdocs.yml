@@ -38,6 +38,9 @@ nav:
   - Systems Science: 
     - 'systems-science/index.md'
     - 3 orders of MLTC systems science: 'systems-science/orders.md'
+      - 1st-order optimisation: 'systems-science/optimisation.md'
+      - 2nd-order innovation: 'systems-science/innovation.md'
+      - 3rd order transition: 'systems-science/transition.md'
   - Transdisciplinary Synthesis & Strategy:
     - 'transdisciplinary-synthesis-strategy/index.md'
     - Problem co-definition map: 'transdisciplinary-synthesis-strategy/problem-definition.md'
