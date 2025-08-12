@@ -32,12 +32,19 @@ The journey map for the SysteMatic especially differs in the way that it allows 
 Several iterations of the journey map were developed with feedback from people with lived experience, public advisors and health professionals. 
 
 
+![annotated journey](../assets/annotated-journey.png)
+/// caption
+Annotated template - mapping a journey. 
+///
+
+
 ## Results & insights
 
 Journey maps were used during some of the interviews with people living with multiple health conditions and healthcare professionals to understand pain points of the journeys. They are also used to visualise different health stories and communicate these with stakeholders, for example, during project workshops. 
 
 
 Visualising people’s health journeys on the journey maps allows the researchers to identify similar or distinctive patterns of interacting with the health system. The journey maps also allow stakeholders to understand the burden of managing health conditions besides other aspects of life which are affected by these. 
+
 
 ## References
 
