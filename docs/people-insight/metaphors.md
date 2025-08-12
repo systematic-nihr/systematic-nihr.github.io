@@ -31,21 +31,34 @@ People with lived experience thought that the images helped to represent their e
 
 ### Navigating a complex & unclear system
 
-| Image     | Description                     | Download              |
-| --------- |-------------------------------- | --------------------- |
-|  ![lottery](../assets/lottery.jfif)  | *lottery, gameshow* | :material-download: [lottery](../assets/lottery.jfif){target="_blank"} |
-|  ![tight rope](../assets/tight-rope.jfif)  | *blindfolded assault course* | :material-download: [tight rope](../assets/tight-rope.jfif){target="_blank"} |
-
+| Image     | Keywords                    | 
+| --------- |-------------------------------- | 
+|  ![lottery](../assets/lottery.jfif)  | *lottery, gameshow* | 
+|  ![tight rope](../assets/tight-rope.jfif)  | *blindfolded assault course* |
+|  ![cloak and dagger](../assets/cloak.png)  | *cloak and dagger, secretive processes* |
+|  ![fights](../assets/fight.png) | *fights, battles* |
+|  ![armour](../assets/armour.png)  | *armour, ready for battle* |
+|  ![obstacles](../assets/obstacles.jfif)  | *obstacles* |
 
 ### Managing the burdens of daily life with MLTC
 
-| Image     | Description                     | Download              |
-| --------- |-------------------------------- | --------------------- |
-|    | |
+| Image     | Description                     |
+| --------- |-------------------------------- |
+| ![climb](../assets/climb.png)   | *heavy load, infinite climb* |
+| ![plates](../assets/plates.jfif)  | *spinning plates* |
+| ![juggling](../assets/juggle.jfif)   | *juggling* |
+| ![washing machine](../assets/washing.jfif)  | *round and round constant washing machine* |
+| ![navigating a storm](../assets/storm.jfif)   | *navigating a storm* |
 
 
 ### Emotional & mental toll of MLTC & critical need foor support
 
-| Image     | Description                     | Download              |
-| --------- |-------------------------------- | --------------------- |
-|    | |
+| Image     | Description                     | 
+| --------- |-------------------------------- | 
+| ![tree](../assets/tree-support.jfif)   | *tree of support* |
+| ![thick fog](../assets/fog.jfif)  | *thick fog* |
+| ![rot](../assets/rot.jfif)   | *left to rot* |
+| ![bloom](../assets/bloom.jfif)   | *blooming and wilting, cycles* |
+| ![dark place](../assets/dark.png)   | *dark place*|
+| ![light and dark](../assets/light&dark.jfif)   | *light and dark*|
+
