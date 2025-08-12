@@ -42,7 +42,7 @@ People with lived experience thought that the images helped to represent their e
 
 ### Managing the burdens of daily life with MLTC
 
-| Image     | Description                     |
+| Image     | Keywords                     |
 | --------- |-------------------------------- |
 | ![climb](../assets/climb.png)   | *heavy load, infinite climb* |
 | ![plates](../assets/plates.jfif)  | *spinning plates* |
@@ -53,7 +53,7 @@ People with lived experience thought that the images helped to represent their e
 
 ### Emotional & mental toll of MLTC & critical need foor support
 
-| Image     | Description                     | 
+| Image     | Keywords                     | 
 | --------- |-------------------------------- | 
 | ![tree](../assets/tree-support.jfif)   | *tree of support* |
 | ![thick fog](../assets/fog.jfif)  | *thick fog* |
