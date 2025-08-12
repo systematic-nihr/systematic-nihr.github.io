@@ -33,8 +33,8 @@ People with lived experience thought that the images helped to represent their e
 
 | Image     | Keywords                    | 
 | --------- |-------------------------------- | 
-|  ![lottery](../assets/lottery.jfif)  | *lottery, gameshow* | 
-|  ![tight rope](../assets/tight-rope.jfif)  | *blindfolded assault course* |
+|  ![lottery](../assets/lottery.jfif){width=50%}  | *lottery, gameshow* | 
+|  ![tight rope](../assets/tight-rope.jfif){: style="transform: scale(0.5);"}  | *blindfolded assault course* |
 |  ![cloak and dagger](../assets/cloak.png)  | *cloak and dagger, secretive processes* |
 |  ![fights](../assets/fight.png) | *fights, battles* |
 |  ![armour](../assets/armour.png)  | *armour, ready for battle* |
