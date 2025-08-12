@@ -27,4 +27,27 @@ People with lived experience thought that the images helped to represent their e
 <br><br>The images also sparked meaningful discussions among health system stakeholders, who used them to articulate their understanding of MLTC systems and build empathy for those affected.
 <br><br>
 
+## Image gallery 
 
+:material-download: [full gallery](../assets/metaphors.pdf){target="_blank"}
+
+### Navigating a complex & unclear system
+
+| Image     | Description                     | Download              |
+| --------- |-------------------------------- | --------------------- |
+|  ![lottery](../assets/lottery.jfif)  | *lottery, gameshow* | :material-download: [lottery](../assets/lottery.jfif){target="_blank"} |
+|  ![tight rope](../assets/tight-rope.jfif)  | *blindfolded assault course* | :material-download: [tight rope](../assets/tight-rope.jfif){target="_blank"} |
+
+
+### Managing the burdens of daily life with MLTC
+
+| Image     | Description                     | Download              |
+| --------- |-------------------------------- | --------------------- |
+|    | |
+
+
+### Emotional & mental toll of MLTC & critical need foor support
+
+| Image     | Description                     | Download              |
+| --------- |-------------------------------- | --------------------- |
+|    | |
