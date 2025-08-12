@@ -29,8 +29,6 @@ People with lived experience thought that the images helped to represent their e
 
 ## Image gallery 
 
-:material-download: [full gallery](../assets/metaphors.pdf){target="_blank"}
-
 ### Navigating a complex & unclear system
 
 | Image     | Description                     | Download              |
