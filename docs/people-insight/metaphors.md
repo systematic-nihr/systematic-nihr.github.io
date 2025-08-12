@@ -34,31 +34,31 @@ People with lived experience thought that the images helped to represent their e
 | Image     | Keywords                    | 
 | --------- |-------------------------------- | 
 |  ![lottery](../assets/lottery.jfif){width=50%}  | *lottery, gameshow* | 
-|  ![tight rope](../assets/tight-rope.jfif){: style="transform: scale(0.5);"}  | *blindfolded assault course* |
-|  ![cloak and dagger](../assets/cloak.png)  | *cloak and dagger, secretive processes* |
-|  ![fights](../assets/fight.png) | *fights, battles* |
-|  ![armour](../assets/armour.png)  | *armour, ready for battle* |
-|  ![obstacles](../assets/obstacles.jfif)  | *obstacles* |
+|  ![tight rope](../assets/tight-rope.jfif){width=50%}  | *blindfolded assault course* |
+|  ![cloak and dagger](../assets/cloak.png){width=50%}  | *cloak and dagger, secretive processes* |
+|  ![fights](../assets/fight.png){width=50%} | *fights, battles* |
+|  ![armour](../assets/armour.png){width=50%}  | *armour, ready for battle* |
+|  ![obstacles](../assets/obstacles.jfif){width=50%}  | *obstacles* |
 
 ### Managing the burdens of daily life with MLTC
 
 | Image     | Keywords                     |
 | --------- |-------------------------------- |
-| ![climb](../assets/climb.png)   | *heavy load, infinite climb* |
-| ![plates](../assets/plates.jfif)  | *spinning plates* |
-| ![juggling](../assets/juggle.jfif)   | *juggling* |
-| ![washing machine](../assets/washing.jfif)  | *round and round constant washing machine* |
-| ![navigating a storm](../assets/storm.jfif)   | *navigating a storm* |
+| ![climb](../assets/climb.png){width=50%}   | *heavy load, infinite climb* |
+| ![plates](../assets/plates.jfif){width=50%}  | *spinning plates* |
+| ![juggling](../assets/juggle.jfif){width=50%}   | *juggling* |
+| ![washing machine](../assets/washing.jfif){width=50%}  | *round and round constant washing machine* |
+| ![navigating a storm](../assets/storm.jfif){width=50%}   | *navigating a storm* |
 
 
 ### Emotional & mental toll of MLTC & critical need foor support
 
 | Image     | Keywords                     | 
 | --------- |-------------------------------- | 
-| ![tree](../assets/tree-support.jfif)   | *tree of support* |
-| ![thick fog](../assets/fog.jfif)  | *thick fog* |
-| ![rot](../assets/rot.jfif)   | *left to rot* |
-| ![bloom](../assets/bloom.jfif)   | *blooming and wilting, cycles* |
-| ![dark place](../assets/dark.png)   | *dark place*|
-| ![light and dark](../assets/light&dark.jfif)   | *light and dark*|
+| ![tree](../assets/tree-support.jfif){width=50%}   | *tree of support* |
+| ![thick fog](../assets/fog.jfif){width=50%}  | *thick fog* |
+| ![rot](../assets/rot.jfif){width=50%}   | *left to rot* |
+| ![bloom](../assets/bloom.jfif){width=50%}   | *blooming and wilting, cycles* |
+| ![dark place](../assets/dark.png){width=50%}   | *dark place*|
+| ![light and dark](../assets/light&dark.jfif){width=50%}   | *light and dark*|
 
